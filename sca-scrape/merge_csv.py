@@ -43,11 +43,11 @@ for f in files:
 # some further cleaning
 
 # make borough consistant
-output.loc[output['borough'] == 'Q','borough'] = 'Queens'
-output.loc[output['borough'] == 'M','borough'] = 'Manhattan'
-output.loc[output['borough'] == 'X','borough'] = 'Bronx'
-output.loc[output['borough'] == 'K','borough'] = 'Brooklyn'
-output.loc[output['borough'] == 'R','borough'] = 'Staten Island'
+# output.loc[output['borough'] == 'Q','borough'] = 'Queens'
+# output.loc[output['borough'] == 'M','borough'] = 'Manhattan'
+# output.loc[output['borough'] == 'X','borough'] = 'Bronx'
+# output.loc[output['borough'] == 'K','borough'] = 'Brooklyn'
+# output.loc[output['borough'] == 'R','borough'] = 'Staten Island'
 
 # fix units: millions --> dollars
 # mils = ['funding_reqd_fy15-19',
