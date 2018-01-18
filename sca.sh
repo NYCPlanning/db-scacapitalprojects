@@ -18,7 +18,7 @@ do
 done
 
 # append all outputs into one csv
-python $REPOLOC/sca-scrape/merge_csvs.py
+python $REPOLOC/sca-scrape/merge_csv.py
 
 # push to psql
 python $REPOLOC/capitalprojects_build/python/sca_to_psql.py
