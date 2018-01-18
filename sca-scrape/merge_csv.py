@@ -22,7 +22,7 @@ files = glob.glob('output_*')
 
 # remove location files
 files = list(compress(files, ['Locations' not in f for f in files]))
-# files = list(compress(files, ['SchoolBased' not in f for f in files]))
+files = list(compress(files, ['SchoolBased' not in f for f in files]))
 
 # put together the projects
 output = pd.DataFrame()
@@ -33,8 +33,8 @@ for f in files:
     output = pd.concat((output, new))
 
 # add site location data back in
-cap_site = pd.read_csv('output_CapacitySiteLocations.csv')
-rep_site = pd.read_csv('output_ReplacementSiteLocations.csv')
+cap_site = pd.read_csv('sca-scrape/output_CapacitySiteLocations.csv')
+rep_site = pd.read_csv('sca-scrape/output_ReplacementSiteLocations.csv')
 
 loc = pd.concat((rep_site, cap_site))
 
