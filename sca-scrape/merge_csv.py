@@ -33,12 +33,12 @@ for f in files:
     output = pd.concat((output, new))
 
 # add site location data back in
-cap_site = pd.read_csv('sca-scrape/output_CapacitySiteLocations.csv')
-rep_site = pd.read_csv('sca-scrape/output_ReplacementSiteLocations.csv')
+# cap_site = pd.read_csv('sca-scrape/output_CapacitySiteLocations.csv')
+# rep_site = pd.read_csv('sca-scrape/output_ReplacementSiteLocations.csv')
 
-loc = pd.concat((rep_site, cap_site))
+# loc = pd.concat((rep_site, cap_site))
 
-output = pd.merge(output, loc[['school_name','location']], how = 'left', on = 'school_name')
+# output = pd.merge(output, loc[['school_name','location']], how = 'left', on = 'school_name')
 
 # some further cleaning
 
@@ -50,13 +50,13 @@ output.loc[output['borough'] == 'K','borough'] = 'Brooklyn'
 output.loc[output['borough'] == 'R','borough'] = 'Staten Island'
 
 # fix units: millions --> dollars
-mils = ['funding_reqd_fy15-19',
-        'needed_to_complete',
-        'previous_appropriations',
-        'total_est_cost']
+# mils = ['funding_reqd_fy15-19',
+#         'needed_to_complete',
+#         'previous_appropriations',
+#         'total_est_cost']
 
-for m in mils:
-    output.loc[:,m] = output.loc[:,m] * 10e6
+# for m in mils:
+#     output.loc[:,m] = output.loc[:,m] * 10e6
 
 # write to csv 
 output.to_csv('auto_output.csv')
