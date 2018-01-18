@@ -55,7 +55,7 @@ mils = ['funding_reqd_fy15-19',
         'previous_appropriations',
         'total_est_cost']
 
-# for m in mils:
+for m in mils:
     output.loc[:,m] = output.loc[:,m] * 10e6
 
 # write to csv 
