@@ -33,8 +33,8 @@ for f in files:
     output = pd.concat((output, new))
 
 # add site location data back in
-rep_site = pd.read_csv('output_ReplacementSiteLocations.csv')
 cap_site = pd.read_csv('output_CapacitySiteLocations.csv')
+rep_site = pd.read_csv('output_ReplacementSiteLocations.csv')
 
 loc = pd.concat((rep_site, cap_site))
 
