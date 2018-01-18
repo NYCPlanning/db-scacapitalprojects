@@ -18,7 +18,7 @@ os.chdir(wd[:-1]) #-1 removes \n
 
 # read in the csvs in a way that won't break with bad scraping
 # list all files for iteration
-files = glob.glob('output_*')
+files = glob.glob('sca-scrape/output_*')
 
 # remove location files
 files = list(compress(files, ['Locations' not in f for f in files]))
