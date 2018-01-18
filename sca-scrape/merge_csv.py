@@ -22,6 +22,7 @@ files = glob.glob('output_*')
 
 # remove location files
 files = list(compress(files, ['Locations' not in f for f in files]))
+files = list(compress(files, ['SchoolBased' not in f for f in files]))
 
 # put together the projects
 output = pd.DataFrame()
@@ -32,10 +33,10 @@ for f in files:
     output = pd.concat((output, new))
 
 # add site location data back in
-prk_site = pd.read_csv('output_PreKSiteLocations.csv')
+rep_site = pd.read_csv('output_ReplacementSiteLocations.csv')
 cap_site = pd.read_csv('output_CapacitySiteLocations.csv')
 
-loc = pd.concat((prk_site, cap_site))
+loc = pd.concat((rep_site, cap_site))
 
 output = pd.merge(output, loc[['school_name','location']], how = 'left', on = 'school_name')
 
