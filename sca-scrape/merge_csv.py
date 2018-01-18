@@ -59,7 +59,7 @@ for m in mils:
     output.loc[:,m] = output.loc[:,m] * 10e6
 
 # write to csv 
-output.to_csv('auto_output.csv')
+output.to_csv('sca-scrape/auto_output.csv')
 
 
 
