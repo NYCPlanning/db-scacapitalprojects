@@ -24,17 +24,17 @@ python $REPOLOC/sca-scrape/merge_csv.py
 python $REPOLOC/sca-scrape/sca_to_psql.py
 python $REPOLOC/sca-scrape/sca_to_psql_detailed.py
 
-# merge in sca_to_psql_detailed to sca_to_psql
+# add building id to sca_cp_detailed from sca_cp
 
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/sql/sca_details_buildingid.sql
 
 # merge geoms by school id
-psql -U $DBUSER -d $DBNAME -f $REPOLOC/capitalprojects_build/sql/sca_geoms_id.sql
-psql -U $DBUSER -d $DBNAME -f $REPOLOC/capitalprojects_build/sql/sca_geoms_id_detailed.sql
+psql -U $DBUSER -d $DBNAME -f $REPOLOC/sql/sca_geoms_id.sql
+psql -U $DBUSER -d $DBNAME -f $REPOLOC/sql/sca_geoms_id_detailed.sql
 
 # get geoms from geoclient
 source activate py2
-python $REPOLOC/capitalprojects_build/python/sca_geocode.py
+python $REPOLOC/python/sca_geocode.py
 source deactivate
 
 # merge geoms by district
