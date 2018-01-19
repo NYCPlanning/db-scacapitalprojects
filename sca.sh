@@ -21,8 +21,12 @@ done
 python $REPOLOC/sca-scrape/merge_csv.py
 
 # push to psql
-python $REPOLOC/capitalprojects_build/python/sca_to_psql.py
-python $REPOLOC/capitalprojects_build/python/sca_to_psql_detailed.py
+python $REPOLOC/sca-scrape/sca_to_psql.py
+python $REPOLOC/sca-scrape/sca_to_psql_detailed.py
+
+# merge in sca_to_psql_detailed to sca_to_psql
+
+psql -U $DBUSER -d $DBNAME -f $REPOLOC/sql/sca_details_buildingid.sql
 
 # merge geoms by school id
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/capitalprojects_build/sql/sca_geoms_id.sql
