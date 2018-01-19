@@ -38,12 +38,32 @@ python $REPOLOC/python/sca_geocode.py
 source deactivate
 
 # merge geoms by district
-psql -U $DBUSER -d $DBNAME -f $REPOLOC/capitalprojects_build/sql/sca_geoms_dist.sql
+psql -U $DBUSER -d $DBNAME -f $REPOLOC/sql/sca_geoms_dist.sql
 
 # merge facility id from facDB
-psql -U $DBUSER -d $DBNAME -f $REPOLOC/capitalprojects_build/sql/sca_facid.sql
+psql -U $DBUSER -d $DBNAME -f $REPOLOC/sql/sca_facid.sql
 
 # merge community district from cds
-psql -U $DBUSER -d $DBNAME -f $REPOLOC/capitalprojects_build/sql/sca_cd_detailed.sql
+psql -U $DBUSER -d $DBNAME -f $REPOLOC/sql/sca_cd_detailed.sql
+
+# SCA Export
+psql -U $DBUSER -d $DBNAME -c "COPY (SELECT * FROM sca_cp) TO '$REPOLOC/output/sca_cp.csv' DELIMITER ',' CSV HEADER;"
+psql -U $DBUSER -d $DBNAME -c "COPY (SELECT * FROM sca_cp_detailed) TO '$REPOLOC/output/sca_cp_detailed.csv' DELIMITER ',' CSV HEADER;"
+
+# points
+ogr2ogr -f "GeoJSON" output/sca_cp_pts.geojson PG:"host=localhost dbname=$DBNAME user=$DBUSER" \
+-sql "SELECT * FROM sca_cp WHERE ST_GeometryType(geom)='ST_Point'"
+
+# poly
+ogr2ogr -f "GeoJSON" output/sca_cp_poly.geojson PG:"host=localhost dbname=$DBNAME user=$DBUSER" \
+-sql "SELECT * FROM sca_cp WHERE ST_GeometryType(geom)='ST_MultiPolygon'"
+
+# points
+ogr2ogr -f "GeoJSON" output/sca_cp_detailed_pts.geojson PG:"host=localhost dbname=$DBNAME user=$DBUSER" \
+-sql "SELECT * FROM sca_cp_detailed WHERE ST_GeometryType(geom)='ST_Point'"
+
+# poly
+ogr2ogr -f "GeoJSON" output/sca_cp_detailed_poly.geojson PG:"host=localhost dbname=$DBNAME user=$DBUSER" \
+-sql "SELECT * FROM sca_cp_detailed WHERE ST_GeometryType(geom)='ST_MultiPolygon'"
 
 cd $REPOLOC
