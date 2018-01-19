@@ -23,4 +23,4 @@ sca = pd.read_csv('sca-scrape/auto_output.csv')
 sca.columns = [c.replace('_','') for c in sca.columns]
 
 # write new table to postgres
-sca.to_sql('sca_cp_detailed', engine, if_exists='replace', index=False)
+sca.to_sql('sca_cp', engine, if_exists='replace', index=False)
