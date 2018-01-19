@@ -19,7 +19,7 @@ DBUSER = config['DBUSER']
 engine = create_engine('postgresql://{}@localhost:5432/{}'.format(DBUSER, DBNAME))
 
 # read in data from csv
-sca = pd.read_csv('/sca-scrape/output_SchoolBasedReport.csv')
+sca = pd.read_csv('sca-scrape/output_SchoolBasedReport.csv')
 sca.columns = [c.replace('_','') for c in sca.columns]
 
 # write new table to postgres
