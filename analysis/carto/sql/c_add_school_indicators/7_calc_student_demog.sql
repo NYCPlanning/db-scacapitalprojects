@@ -24,3 +24,15 @@ AND x_alternative is null
 AND x_school_type = 'General Academic'
 AND blended_sqr_score is not null
 GROUP BY geo_csd
+
+-- Calc average economic needs index in area
+
+SELECT
+	geo_csd,
+    sum(economic_needs_index)/ count(economic_needs_index) AS eni
+FROM capitalplanning.doe_2016_demographics
+WHERE x_citywide is null
+AND x_alternative is null
+AND x_school_type = 'General Academic'
+AND economic_needs_index is not null
+GROUP BY geo_csd
