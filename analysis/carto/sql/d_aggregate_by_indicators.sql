@@ -13,6 +13,4 @@ GROUP BY
 	geo_csd,
   x_charter
   
-  
---Identify overutilized areas
-(as recorded in BB, excl. alternative & citywide. includes SPED)
+
