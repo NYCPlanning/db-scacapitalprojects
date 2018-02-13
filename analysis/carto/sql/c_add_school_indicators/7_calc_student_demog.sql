@@ -1,3 +1,6 @@
+-- General Academic schools only (district and charter)
+-- Excludes citywide schools, SPED, alternative, transfer hs, career technical, home school
+
 SELECT
 	geo_csd,
     sum(total_enrollment) as total_enroll,
@@ -6,6 +9,5 @@ SELECT
 FROM capitalplanning.doe_2016_demographics
 WHERE x_citywide is null
 AND x_alternative is null
-AND x_charter is null
 AND x_school_type = 'General Academic'
 GROUP BY geo_csd ASC
