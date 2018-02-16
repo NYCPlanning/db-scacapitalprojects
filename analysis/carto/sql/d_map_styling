@@ -1,0 +1,64 @@
+-- Quintile coloring
+
+#layer {
+  polygon-fill: ramp([capacity_spend_per_public_school_student], (#d7191c, #fdae61, #ffffbf, #a6d96a, #1a9641), quantiles);
+}
+#layer::outline {
+  line-width: 1;
+  line-color: #FFFFFF;
+  line-opacity: 1;
+}
+#layer::labels {
+  text-name: [borocd];
+  text-face-name: 'DejaVu Sans Book';
+  text-size: 10;
+  text-fill: #000000;
+  text-label-position-tolerance: 0;
+  text-halo-radius: 1;
+  text-halo-fill: #f9fbfd;
+  text-dy: 0;
+  text-allow-overlap: false;
+  text-placement: point;
+  text-placement-type: dummy;
+}
+
+-- Quintile legend
+<ul>
+  
+    <li class="Legend-categoryListItem u-flex u-justifySpace u-alignCenter">
+      <p class="Legend-categoryTitle CDB-Text CDB-Size-small u-upperCase u-ellipsis" title="Quintile 5">Quintile 5</p>
+      
+        <span class="Legend-categoryCircle" style="opacity:1; background: #d7191c;"></span>
+      
+    </li>
+  
+    <li class="Legend-categoryListItem u-flex u-justifySpace u-alignCenter">
+      <p class="Legend-categoryTitle CDB-Text CDB-Size-small u-upperCase u-ellipsis" title="Quintile 4">Quintile 4</p>
+      
+        <span class="Legend-categoryCircle" style="opacity:1; background: #fdae61;"></span>
+      
+    </li>
+  
+    <li class="Legend-categoryListItem u-flex u-justifySpace u-alignCenter">
+      <p class="Legend-categoryTitle CDB-Text CDB-Size-small u-upperCase u-ellipsis" title="Quintile 3">Quintile 3</p>
+      
+        <span class="Legend-categoryCircle" style="opacity:1; background: #ffffbf;"></span>
+      
+    </li>
+  
+    <li class="Legend-categoryListItem u-flex u-justifySpace u-alignCenter">
+      <p class="Legend-categoryTitle CDB-Text CDB-Size-small u-upperCase u-ellipsis" title="Quintile 2">Quintile 2</p>
+      
+        <span class="Legend-categoryCircle" style="opacity:1; background: #a6d96a;"></span>
+      
+    </li>
+  
+    <li class="Legend-categoryListItem u-flex u-justifySpace u-alignCenter">
+      <p class="Legend-categoryTitle CDB-Text CDB-Size-small u-upperCase u-ellipsis" title="Quintile 1">Quintile 1</p>
+      
+        <span class="Legend-categoryCircle" style="opacity:1; background: #1a9641;"></span>
+      
+    </li>
+  
+</ul>
+
