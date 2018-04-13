@@ -8,14 +8,15 @@ FROM dcpadmin.doe_bluebook_organization_20162017
 GROUP BY geo_dist
 
 
--- Exclude citywide and alternative HS (include co-located charter and SPED)
+-- Exclude alternative HS (include co-located charter and SPED)
 
 SELECT 
 	geo_borocd,
     	sum(org_enroll) AS org_enroll,
    	sum(org_target_cap) AS org_cap
 FROM capitalplanning.doe_bb_201617_for_analysis
-WHERE x_citywide is null
-AND x_alternative is null
+WHERE x_alternative is null
+AND organization_name not like '%ALTERNATIVE LEARNING CENTER%'
+AND organization_name not like '%ADULT LEARNING CENTER%'
 GROUP BY geo_borocd
 ORDER BY geo_borocd
