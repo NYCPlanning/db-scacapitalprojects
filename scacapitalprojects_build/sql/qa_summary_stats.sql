@@ -17,4 +17,3 @@ END AS OPENSource_Table
 FROM sca_cp_capacity_projects
 GROUP BY description
 );
-

@@ -25,4 +25,4 @@ ALTER TABLE sca_cp_class_size_reduction_join ADD latitude text;
 ALTER TABLE sca_cp_class_size_reduction_join ADD location text;
 ALTER TABLE sca_cp_class_size_reduction_join ADD description text;
 UPDATE sca_cp_class_size_reduction_join
-SET description = 'Class Size Reduction Capacity Projects';
+SET description = 'Class Size Reduction Capacity Projects'::text;

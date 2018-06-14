@@ -23,4 +23,4 @@ ALTER TABLE sca_cp_rep_schools_join ADD latitude text;
 ALTER TABLE sca_cp_rep_schools_join ADD location text;
 ALTER TABLE sca_cp_rep_schools_join ADD description text;
 UPDATE sca_cp_rep_schools_join 
-SET description = 'Replacement schools Capacity Projects';
+SET description = 'Replacement schools Capacity Projects'::text;
