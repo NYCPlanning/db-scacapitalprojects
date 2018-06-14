@@ -43,3 +43,17 @@ SET school_district = b.school_dist
 FROM dcp_school_districts b
 WHERE ST_Within(a.geom, b.wkb_geometry)
 AND a.geom IS NOT NULL;
+
+
+--
+SELECT COUNT(*)
+FROM sca_cp_projects a, dcp_mappluto b
+WHERE ST_Within(a.geom, b.geom)
+AND a.geom IS NOT NULL;
+
+UPDATE sca_cp_school_programs a
+SET bin = b.bin
+FROM doitt_buildingfootprints b
+WHERE ST_Within(a.geom, b.geom)
+AND a.geom IS NOT NULL;
+
