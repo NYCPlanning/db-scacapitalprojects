@@ -5,9 +5,9 @@ CREATE TABLE sca_cp_rep_schools_join AS
 SELECT district, school, projectnum, totalestcost, substring(actualestcompl, 1, strpos (actualestcompl,'-')-1) actualestcompl_month,
 substring(actualestcompl, strpos(actualestcompl,'-')+1, length(actualestcompl)) actualestcompl_year
 FROM sca_cp_rep_schools
-)
+);
 
-ALTER TABLE sca_cp_rep_schools_join ADD COLUMN fy INT;
+ALTER TABLE sca_cp_rep_schools_join ADD fy INT;
 
 ALTER TABLE sca_cp_rep_schools_join ALTER COLUMN actualestcompl_year TYPE INTEGER USING (trim(actualestcompl_year)::integer);
 

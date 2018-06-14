@@ -5,11 +5,11 @@ CREATE TABLE sca_cp_class_size_reduction_join AS
 SELECT district, school, projectnum, totalestcost, substring(actualestcompl, 1, strpos (actualestcompl,'-')-1) actualestcompl_year,
 substring(actualestcompl, strpos(actualestcompl,'-')+1, length(actualestcompl)) actualestcompl_month
 FROM sca_cp_class_size_reduction
-)
+);
 
 
 
-ALTER TABLE sca_cp_class_size_reduction_join ADD COLUMN fy INT;
+ALTER TABLE sca_cp_class_size_reduction_join ADD fy INT;
 
 ALTER TABLE sca_cp_class_size_reduction_join ALTER COLUMN actualestcompl_year TYPE INTEGER USING (trim(actualestcompl_year)::integer);
 
