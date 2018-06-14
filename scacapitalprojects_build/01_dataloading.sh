@@ -15,7 +15,7 @@ cd '/prod/data-loading-scripts'
 echo 'Loading open source datasets...'
 node loader.js install sca_cp_added_projects
 node loader.js install sca_cp_advanced_projects
-node loader.js install sca_cancelled_projects
+node loader.js install sca_cp_cancelled_projects
 node loader.js install sca_cp_cap_location
 node loader.js install sca_cp_class_size_reduction
 node loader.js install sca_cp_prek_location
