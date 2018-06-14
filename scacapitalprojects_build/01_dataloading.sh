@@ -3,8 +3,6 @@
 ################################################################################################
 ### OBTAINING DATA
 ################################################################################################
-### NOTE: This script requires you to setup the DATABASE_URL environment variable.
-### Directions are in the README.md.
 
 ## Load all datasets from sources using the civic data loader
 ## https://github.com/NYCPlanning/data-loading-scripts
@@ -23,5 +21,4 @@ node loader.js install sca_cp_prek_schools
 node loader.js install sca_cp_programs
 node loader.js install sca_cp_rep_schools
 
-## Other_datasets - PULLING FROM PLUTO GitHub repo
-##echo 'Loading datasets from PLUTO GitHub repo...'
+
