@@ -7,7 +7,7 @@ FROM sca_cp_cap_schools a
 LEFT JOIN sca_cp_cap_location b
 ON a.school = b.school);
 
-ALTER TABLE sca_cp_cap_joined ADD COLUMN fy INT;
+ALTER TABLE sca_cp_cap_joined ADD fy INT;
 
 ALTER TABLE sca_cp_cap_joined ALTER COLUMN actualestcompl_year TYPE INTEGER USING (trim(actualestcompl_year)::integer);
 

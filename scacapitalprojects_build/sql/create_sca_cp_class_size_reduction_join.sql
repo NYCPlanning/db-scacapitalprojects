@@ -20,9 +20,9 @@ SET fy = CASE
     END ;
 
 
-ALTER TABLE sca_cp_class_size_reduction_join ADD COLUMN longitude text;
-ALTER TABLE sca_cp_class_size_reduction_join ADD COLUMN latitude text;
-ALTER TABLE sca_cp_class_size_reduction_join ADD COLUMN location text;
-ALTER TABLE sca_cp_class_size_reduction_join ADD COLUMN description text;
+ALTER TABLE sca_cp_class_size_reduction_join ADD longitude text;
+ALTER TABLE sca_cp_class_size_reduction_join ADD latitude text;
+ALTER TABLE sca_cp_class_size_reduction_join ADD location text;
+ALTER TABLE sca_cp_class_size_reduction_join ADD description text;
 UPDATE sca_cp_class_size_reduction_join
 SET description = 'Class Size Reduction Capacity Projects';
