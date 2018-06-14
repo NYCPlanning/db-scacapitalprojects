@@ -1,8 +1,9 @@
-Non-capacity Projects	4711	98.2806198259392910	sca_cp_school_programs	sca_cp_programs
-Projects with dollar amounts	59	98.3050847457627119	sca_cp_projects	sca_cp_advanced_projects
-Projects with dollar amounts	2989	98.4944797591167615	sca_cp_projects	sca_cp_added_projects
-Projects with dollar amounts	119	94.9579831932773109	sca_cp_projects	sca_cp_cancelled_projects
-Capacity Projects	9	0.00000000000000000000	sca_cp_capacity_projects	sca_cp_rep_schools
-Capacity Projects	3	0.00000000000000000000	sca_cp_capacity_projects	sca_cp_rep_schools
-Capacity Projects	88	36.3636363636363636	sca_cp_capacity_projects	sca_cp_rep_schools
-Capacity Projects	71	91.5492957746478873	sca_cp_capacity_projects	sca_cp_rep_schools
+group,count,percentage_mapped,table,opensource_table
+Non-capacity Projects,4711,98.2806198259392910,sca_cp_school_programs,sca_cp_programs
+Projects with dollar amounts,59,98.3050847457627119,sca_cp_projects,sca_cp_advanced_projects
+Projects with dollar amounts,2989,98.4944797591167615,sca_cp_projects,sca_cp_added_projects
+Projects with dollar amounts,119,94.9579831932773109,sca_cp_projects,sca_cp_cancelled_projects
+Capacity Projects,9,0.00000000000000000000,sca_cp_capacity_projects,sca_cp_rep_schools
+Capacity Projects,3,0.00000000000000000000,sca_cp_capacity_projects,sca_cp_rep_schools
+Capacity Projects,88,36.3636363636363636,sca_cp_capacity_projects,sca_cp_rep_schools
+Capacity Projects,71,91.5492957746478873,sca_cp_capacity_projects,sca_cp_rep_schools
