@@ -27,4 +27,4 @@ echo 'Creating base SCA School Programs table'
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/sca_geoms_id_school_programs.sql
 
 echo 'Creating the summary statistics table'
-psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/output/qa_summary_stats.sql
+psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/qa_summary_stats.sql
