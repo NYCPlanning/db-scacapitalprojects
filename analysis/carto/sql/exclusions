@@ -1,0 +1,20 @@
+SELECT bldg_id, org_id, bldg_name, organization_name FROM capitalplanning.doe_bb_201617_for_analysis
+where x_citywide is not null
+
+
+SELECT bldg_id, org_id, bldg_name, organization_name FROM capitalplanning.doe_bb_201617_for_analysis
+where bldg_id in ('M477',
+'X445',
+'X905',
+'M044',
+'R440',
+'M022',
+'K430',
+'M812',
+'K237',
+'Q774',
+'M117',
+'Q017',
+'Q126',
+'K049')
+order by bldg_id desc
