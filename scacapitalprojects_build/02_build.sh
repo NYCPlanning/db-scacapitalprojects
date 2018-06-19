@@ -22,6 +22,8 @@ psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/create_sca_c
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/create_sca_cp_class_size_reduction_join.sql
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/create_sca_cp_rep_schools_join.sql
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/create_sca_cp_capacity_projects.sql
+psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/sca_geoms_id_capacity_projects.sql
+
 
 echo 'Creating base SCA School Programs table'
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/sca_geoms_id_school_programs.sql
