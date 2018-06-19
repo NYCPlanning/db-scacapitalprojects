@@ -1,7 +1,7 @@
 --Create table sca_cp_projects for Group Projects without dollar amounts
 DROP TABLE IF EXISTS sca_cp_prek_joined;
 CREATE TABLE sca_cp_prek_joined AS 
-(SELECT a.existingsiteidentified, a.proposedleasedfacility, a.district, a.school, a.projectnum, 'pre-k capacity projects'::text AS description, b.location, b.latitude, b.longitude, a.totalestcost, substring(a.actualestcompl, 1, strpos (a.actualestcompl,'-')-1) actualestcompl_year,
+(SELECT a.existingsiteidentified, a.proposedleasedfacility, a.district, a.school, a.projectnum, 'pre-k capacity projects'::text AS description, b.location, b.latitude, b.longitude, a.actualestcompl, a.designstart, a.constrstart, a.totalestcost, substring(a.actualestcompl, 1, strpos (a.actualestcompl,'-')-1) actualestcompl_year,
 substring(a.actualestcompl, strpos(a.actualestcompl,'-')+1, length(a.actualestcompl)) actualestcompl_month, a.previousappropriations, a.fundingreqdfy1519, a.neededtocomplete
 FROM sca_cp_prek_schools a
 LEFT JOIN sca_cp_prek_location b
