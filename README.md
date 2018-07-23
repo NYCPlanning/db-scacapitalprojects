@@ -2,17 +2,15 @@
 The SCA Capital Projects Database includes Capacity and Non-Capacity capital investments and their timelines and costs planned by the School Construction Authority, based on their Capital Plan.
 
 Capacity projects add new school seats and include:
-
-	* New Capacity: new schools
- 	* Pre-K Capacity: new standalone Pre-K centers)
-	* Class Size Reduction: targeted investments in geographically isolated areas with high overutilization
-	* Replacement: relocation of existing schools
+* New Capacity: new schools
+ * Pre-K Capacity: new standalone Pre-K centers)
+* Class Size Reduction: targeted investments in geographically isolated areas with high overutilization
+* Replacement: relocation of existing schools
 
 Non-Capacity projects vary greatly and include:
-
-	* Capital Improvement Program: exterior & interior repairs
-	* School Enhancement projects: gym, science lab, accessibility improvements, etc.
- 	* Mandated projects: remediation, code compliance, etc.
+* Capital Improvement Program: exterior & interior repairs
+* School Enhancement projects: gym, science lab, accessibility improvements, etc.
+ * Mandated projects: remediation, code compliance, etc.
 
 The SCA Capital Projects Database is being provided by the Department of City Planning (DCP) on DCP's Capital Planning Platform for informational purposes only. DCP is not responsible for the completeness or accuracy of the data, as it is based on publicly available information released by the SCA.
 
