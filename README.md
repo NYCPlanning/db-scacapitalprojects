@@ -1,8 +1,24 @@
 # SCA Capital Projects Database
+The SCA Capital Projects Database includes Capacity and Non-Capacity capital investments and their timelines and costs planned by the School Construction Authority, based on their Capital Plan.
 
-The School Construction Authority (SCA) is purposefully seperated from other City agencies and as a result the authority has its own captial plan.  Each year OMB provides one large lump sum of monies to SCA, and these lump sums are reflected in the Captial Commitment Plan as projects (i.e. FMS ID 040SCA22).  Once SCA receives the funds SCA then has the freedom to spend those monies in whatever ways it thinks are best.  Therefore, the SCA Capital Plan is different and published seperately from OMB's Capital Commitment Plan.
+Capacity projects add new school seats and include:
+	* New Capacity: new schools
+ 	* Pre-K Capacity: new standalone Pre-K centers)
+	* Class Size Reduction: targeted investments in geographically isolated areas with high overutilization
+	* Replacement: relocation of existing schools
 
-To following instructs how to build the SCA Captial Projects Database
+Non-Capacity projects vary greatly and include:
+	* Capital Improvement Program: exterior & interior repairs
+	* School Enhancement projects: gym, science lab, accessibility improvements, etc.
+ 	* Mandated projects: remediation, code compliance, etc.
+
+The SCA Capital Projects Database is being provided by the Department of City Planning (DCP) on DCP's Capital Planning Platform for informational purposes only. DCP is not responsible for the completeness or accuracy of the data, as it is based on publicly available information released by the SCA.
+
+The SCA Capital Projects Database can be used to understand repairs or upgrades planned or in-progress within existing school sites, and learn about planned new school sites.  It is important to note that the SCA Capital Projects Database is NOT a comprehensive dataset of school-related capital projects; rather, it's a reflection of a snapshot in time.
+
+This data should be used for exploratory purposes only given the lack of comprehensive information. It should not be used as a project management tool - as project timelines, costs, and scope may change. Please consult Capital Planning if you plan to do analysis using this data
+
+To following instructs how to build the SCA Captial Projects Database by scraping SCA's capital plan.  The scripts in scacaptialprojects_build instruct you how to build the SCA Captial Projects Database from the datasets published on open data, which is more reliable.
 
 ## Setup
 

@@ -21,3 +21,5 @@ node loader.js install sca_cp_prek_location
 node loader.js install sca_cp_prek_schools
 node loader.js install sca_cp_programs
 node loader.js install sca_cp_rep_schools
+node loader.js install doe_facilities_lcgms
+node loader.js install doe_facilities_schoolsbluebook

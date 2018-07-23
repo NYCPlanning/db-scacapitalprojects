@@ -18,4 +18,3 @@ DROP TABLE sca_cp_cap_joined ;
 DROP TABLE sca_cp_prek_joined ;
 DROP TABLE sca_cp_class_size_reduction_join ;
 DROP TABLE sca_cp_rep_schools_join ;
-
