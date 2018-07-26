@@ -21,7 +21,8 @@ CREATE TABLE sca_cp_cap_joined AS (
 			a.totalestcost, 
 			a.previousappropriations, 
 			a.fundingreqdfy1519, 
-			a.neededtocomplete
+			a.neededtocomplete,
+			'sca_cp_cap_schools' AS source
 	FROM sca_cp_cap_schools a
 	LEFT JOIN sca_cp_cap_location b
 	ON a.school = b.school

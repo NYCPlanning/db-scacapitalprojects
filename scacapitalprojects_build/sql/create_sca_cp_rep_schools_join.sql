@@ -21,7 +21,8 @@ CREATE TABLE sca_cp_rep_schools_join AS (
 		totalestcost, 
 		previousappropriations, 
 		fundingreqdfy1519,
-		neededtocomplete
+		neededtocomplete,
+		'sca_cp_rep_schools' as source
 FROM sca_cp_rep_schools
 );
 

@@ -20,8 +20,10 @@ CREATE TABLE sca_output_carto AS
 			WHEN description LIKE '%-%' THEN split_part(description,'-',1) 
 			ELSE 'School Programs'
 		END) AS type,
+		source,
 		geom
 FROM sca_cp_school_programs
+WHERE geom IS NOT NULL
 UNION ALL
 SELECT 
 	borough, 
@@ -45,8 +47,10 @@ SELECT
 		WHEN source = 'sca_cp_advaned_projects' THEN 'Cancelled Projects' 
 		ELSE NULL 
 	END) AS type,
+	source,
 	geom
 FROM sca_cp_projects
+WHERE geom IS NOT NULL
 UNION ALL
 SELECT 
 	borough, 
@@ -71,6 +75,8 @@ SELECT
 		WHEN description = '' THEN 'Replacement Projects' 
 	ELSE NULL
 	END) AS type,
+	source,
 	geom
 FROM sca_cp_capacity_projects
+WHERE geom IS NOT NULL
 );
