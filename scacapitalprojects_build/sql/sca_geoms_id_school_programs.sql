@@ -6,8 +6,12 @@ CREATE TABLE sca_cp_school_programs AS (
 );
 
 ALTER TABLE sca_cp_school_programs
+ADD COLUMN source text,
 ADD COLUMN cd text,
 ADD COLUMN geom geometry;
+
+UPDATE sca_cp_school_programs
+SET source = 'sca_cp_programs';
 
 -- geoms from lcgms
 UPDATE sca_cp_school_programs a
