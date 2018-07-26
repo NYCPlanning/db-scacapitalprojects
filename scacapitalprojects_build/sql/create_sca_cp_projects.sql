@@ -22,7 +22,7 @@ CREATE TABLE sca_cp_projects AS (
 		   boro as borough, 
 		   school, 
 		   programcategory, 
-		   'sca_cp_cancelled_projects' AS source
+		   'sca_cp_cancelled_projects'::text AS source
 	FROM sca_cp_cancelled_projects 
 	ORDER BY buildingid, school
 );

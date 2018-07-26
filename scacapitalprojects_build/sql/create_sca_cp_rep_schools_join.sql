@@ -22,7 +22,7 @@ CREATE TABLE sca_cp_rep_schools_join AS (
 		previousappropriations, 
 		fundingreqdfy1519,
 		neededtocomplete,
-		'sca_cp_rep_schools' as source
+		'sca_cp_rep_schools'::text as source
 FROM sca_cp_rep_schools
 );
 

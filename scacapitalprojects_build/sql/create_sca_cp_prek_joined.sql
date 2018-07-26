@@ -22,7 +22,7 @@ CREATE TABLE sca_cp_prek_joined AS (
 		a.previousappropriations, 
 		a.fundingreqdfy1519, 
 		a.neededtocomplete,
-		'sca_cp_prek_schools' AS source
+		'sca_cp_prek_schools'::text AS source
 	FROM sca_cp_prek_schools a
 	LEFT JOIN sca_cp_prek_location b
 	ON a.school = b.school);

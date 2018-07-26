@@ -21,7 +21,8 @@ CREATE TABLE sca_cp_class_size_reduction_join AS (
 		totalestcost, 
    		previousappropriations, 
    		fundingreqdfy1519, 
-   		neededtocomplete
+   		neededtocomplete,
+   		'sca_cp_class_size_reduction'::text
 FROM sca_cp_class_size_reduction
 );
 
