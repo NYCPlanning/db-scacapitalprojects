@@ -1,18 +1,18 @@
 -- Creating table that will be outputted to be uploaded into CARTO for the Capital Planning Platform
 DROP TABLE IF EXISTS sca_output_carto;
 CREATE TABLE sca_output_carto AS 
-(SELECT NULL AS actualestcompletion, 
+(SELECT borough, 
+		buildingid, 
+		NULL AS actualestcompletion, 
 		NULL AS constrstart, 
 		NULL AS designstart, 
 		NULL AS forecastcapacity, 
-		NULL AS fundingreqdfy15to19, 
+		NULL AS fundingreqd15to19, 
 		NULL AS location, 
 		NULL AS neededtocomplete,
 		NULL AS previousappropriations, 
 		projectnum AS projectid, 
 		total::text AS totalestcost , 
-		borough, 
-		buildingid, 
 		district, 
 		school AS schoolname, 
 		description, 
@@ -24,18 +24,18 @@ CREATE TABLE sca_output_carto AS
 FROM sca_cp_school_programs
 UNION ALL
 SELECT 
+	borough, 
+	buildingid, 
 	NULL AS actualestcompletion, 
 	NULL AS constrstart, 
 	NULL AS designstart, 
 	NULL AS forecastcapacity, 
-	NULL AS fundingreqdfy15to19,
+	NULL AS fundingreqd15to19,
 	NULL AS location, 
 	NULL AS neededtocomplete, 
 	NULL AS previousappropriations, 
 	NULL AS projectid, 
 	NULL AS totalestcost,
-	boro AS borough, 
-	bldgid AS buildingid, 
 	district, 
 	school AS schoolname, 
 	programcategory AS description,
@@ -49,21 +49,21 @@ SELECT
 FROM sca_cp_projects
 UNION ALL
 SELECT 
-	NULL AS borough, 
+	borough, 
 	NULL AS buildingid, 
 	actualestcompl AS actualestcompletion, 
 	constrstart, 
 	designstart, 
-	description, 
-	district, 
 	forecastcapacity, 
 	fundingreqdfy1519 AS fundingreqd15to19, 
 	location, 
 	neededtocomplete, 
 	previousappropriations, 
 	projectnum AS projectid, 
-	school AS schoolname, 
 	totalestcost, 
+	district,
+	school AS schoolname, 
+	description, 
 	(CASE 
 		WHEN description = 'capacity projects' THEN 'Capacity Projects' 
 		WHEN description = 'pre-k capacity projects' THEN 'PreK Capacity Projects' 

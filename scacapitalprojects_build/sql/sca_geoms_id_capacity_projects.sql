@@ -1,13 +1,9 @@
+-- creating geometries for capacity projects
 ALTER TABLE sca_cp_capacity_projects
-ADD geom geometry;
+	ADD cd text,
+	ADD borough text,
+	ADD geom geometry;
 
-ALTER TABLE sca_cp_capacity_projects
-ADD cd text;
-
-ALTER TABLE sca_cp_capacity_projects
-ADD school_district text;
-
--- geoms from lcgms
 UPDATE sca_cp_capacity_projects a
 SET geom=ST_SetSRID(ST_MakePoint(a.longitude::numeric, a.latitude::numeric),4326)
 WHERE a.geom is NULL;
@@ -19,9 +15,9 @@ FROM dcp_cdboundaries b
 WHERE ST_Within(a.geom, b.geom)
 AND a.geom IS NOT NULL;
 
--- school districts
+-- boroughs
 UPDATE sca_cp_capacity_projects a
-SET school_district = b.school_dist
-FROM dcp_school_districts b
-WHERE ST_Within(a.geom, b.wkb_geometry)
+SET borough = b.boroname
+FROM dcp_boroboundaries_wi b
+WHERE ST_Within(a.geom, b.geom)
 AND a.geom IS NOT NULL;
