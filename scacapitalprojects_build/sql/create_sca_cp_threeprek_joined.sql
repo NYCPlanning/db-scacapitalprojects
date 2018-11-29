@@ -13,8 +13,8 @@ CREATE TABLE sca_cp_threeprek_joined AS (
 		b.longitude, 
 		a.actualestcompl, 
 		(CASE 
-			WHEN (substring(a.actualestcompl, strpos(a.actualestcompl,'-')+1, length(a.actualestcompl)) IN ('Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec')) THEN substring(a.actualestcompl, 1, strpos (a.actualestcompl,'-')-1)::integer+2001
-			ELSE substring(a.actualestcompl, 1, strpos (a.actualestcompl,'-')-1)::integer+2000
+			WHEN (substring(a.actualestcompl, strpos(a.actualestcompl,'-')-1, length(a.actualestcompl)) IN ('Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec')) THEN substring(a.actualestcompl, 1, strpos (a.actualestcompl,'-')+1)::integer+2001
+			ELSE substring(a.actualestcompl, 1, strpos (a.actualestcompl,'-')+1)::integer+2000
 		END) AS fy,
 		a.designstart, 
 		a.constrstart, 
