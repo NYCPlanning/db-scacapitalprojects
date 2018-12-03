@@ -8,6 +8,7 @@ CREATE TABLE sca_cp_school_programs AS (
 ALTER TABLE sca_cp_school_programs
 ADD COLUMN source text,
 ADD COLUMN cd text,
+ADD COLUMN csd text,
 ADD COLUMN geom geometry;
 
 UPDATE sca_cp_school_programs
@@ -33,3 +34,8 @@ SET cd = b.borocd
 FROM dcp_cdboundaries b
 WHERE ST_Within(a.geom, b.geom)
 AND a.geom IS NOT NULL;
+
+UPDATE sca_cp_school_programs a
+	SET csd = b.school_dist::text	
+	FROM dcp_school_districts as b
+	WHERE ST_Intersects(a.geom,b.wkb_geometry);

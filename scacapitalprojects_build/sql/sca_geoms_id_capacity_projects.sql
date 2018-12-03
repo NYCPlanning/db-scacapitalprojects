@@ -2,6 +2,8 @@
 ALTER TABLE sca_cp_capacity_projects
 	ADD cd text,
 	ADD borough text,
+	ADD borough text,
+	ADD csd text,
 	ADD geom geometry;
 
 UPDATE sca_cp_capacity_projects a
@@ -21,3 +23,8 @@ SET borough = b.boroname
 FROM dcp_boroboundaries_wi b
 WHERE ST_Within(a.geom, b.geom)
 AND a.geom IS NOT NULL;
+-- school districts
+UPDATE sca_cp_capacity_projects a
+	SET csd = b.school_dist::text	
+	FROM dcp_school_districts as b
+	WHERE ST_Intersects(a.geom,b.wkb_geometry);

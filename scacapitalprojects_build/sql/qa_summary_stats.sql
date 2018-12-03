@@ -27,7 +27,7 @@ UNION ALL
 SELECT 'Capacity Projects' AS group, COUNT(*), (COUNT(geom)*100.00) :: NUMERIC /COUNT(*) AS Percentage_mapped, 'sca_cp_capacity_projects' AS Table, CASE 
 WHEN lower(description) = 'capacity projects' THEN 'Join of sca_cp_cap_location and sca_cp_cap_schools' 
 WHEN lower(description) = 'pre-k capacity projects' THEN 'Join of sca_cp_prek_location and sca_cp_prek_schools' 
-WHEN lower(description) = 'three pre-k capacity projects' THEN 'Join of sca_cp_threeprek_location and sca_cp_threeprek_schools' 
+WHEN lower(description) = 'pre-k three capacity projects' THEN 'Join of sca_cp_threeprek_location and sca_cp_threeprek_schools' 
 ELSE NULL
 END AS OPENSource_Table
 FROM sca_cp_capacity_projects
