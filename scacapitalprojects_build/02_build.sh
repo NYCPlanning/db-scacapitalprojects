@@ -15,6 +15,7 @@ echo "Starting to build SCA"
 echo 'Creating base SCA Capacity Projects table'
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/create_sca_cp_cap_joined.sql
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/create_sca_cp_prek_joined.sql
+psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/create_sca_cp_threeprek_joined.sql
 
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/create_sca_cp_capacity_projects.sql
 psql -U $DBUSER -d $DBNAME -f $REPOLOC/scacapitalprojects_build/sql/sca_geoms_id_capacity_projects.sql
