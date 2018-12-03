@@ -35,6 +35,7 @@ FROM dcp_cdboundaries b
 WHERE ST_Within(a.geom, b.geom)
 AND a.geom IS NOT NULL;
 
+-- school districts
 UPDATE sca_cp_school_programs a
 	SET csd = b.school_dist::text	
 	FROM dcp_school_districts as b

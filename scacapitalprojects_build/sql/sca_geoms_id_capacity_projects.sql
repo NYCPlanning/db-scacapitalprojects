@@ -2,7 +2,6 @@
 ALTER TABLE sca_cp_capacity_projects
 	ADD cd text,
 	ADD borough text,
-	ADD borough text,
 	ADD csd text,
 	ADD geom geometry;
 
