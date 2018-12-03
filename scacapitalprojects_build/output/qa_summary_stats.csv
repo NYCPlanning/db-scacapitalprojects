@@ -1,7 +1,5 @@
 group,count,percentage_mapped,table,opensource_table
 Non-capacity Projects,178,98.8764044943820225,sca_cp_school_programs,sca_cp_programs
-Projects with dollar amounts,119,94.9579831932773109,sca_cp_projects,sca_cp_cancelled_projects
-Projects with dollar amounts,2989,98.4944797591167615,sca_cp_projects,sca_cp_added_projects
-Projects with dollar amounts,59,98.3050847457627119,sca_cp_projects,sca_cp_advanced_projects
-Capacity Projects,6,50.0000000000000000,sca_cp_capacity_projects,sca_cp_rep_schools
-Capacity Projects,88,13.6363636363636364,sca_cp_capacity_projects,sca_cp_rep_schools
+Capacity Projects,3,33.3333333333333333,sca_cp_capacity_projects,Join of sca_cp_threeprek_location and sca_cp_threeprek_schools
+Capacity Projects,88,11.3636363636363636,sca_cp_capacity_projects,Join of sca_cp_cap_location and sca_cp_cap_schools
+Capacity Projects,3,66.6666666666666667,sca_cp_capacity_projects,Join of sca_cp_prek_location and sca_cp_prek_schools
