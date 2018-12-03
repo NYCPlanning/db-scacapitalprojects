@@ -25,33 +25,33 @@ CREATE TABLE sca_output_carto AS
 FROM sca_cp_school_programs
 WHERE geom IS NOT NULL
 UNION ALL
-SELECT 
-	borough, 
-	buildingid, 
-	NULL AS actualestcompletion, 
-	NULL AS constrstart, 
-	NULL AS designstart, 
-	NULL AS forecastcapacity, 
-	NULL AS fundingreqd15to19,
-	NULL AS location, 
-	NULL AS neededtocomplete, 
-	NULL AS previousappropriations, 
-	NULL AS projectid, 
-	NULL AS totalestcost,
-	district, 
-	school AS schoolname, 
-	programcategory AS description,
-	(CASE 
-		WHEN source = 'sca_cp_added_projects' THEN 'Added Projects' 
-		WHEN source = 'sca_cp_advaned_projects' THEN 'Advanced Projects'
-		WHEN source = 'sca_cp_advaned_projects' THEN 'Cancelled Projects' 
-		ELSE NULL 
-	END) AS type,
-	source,
-	geom
-FROM sca_cp_projects
-WHERE geom IS NOT NULL
-UNION ALL
+-- SELECT 
+-- 	borough, 
+-- 	buildingid, 
+-- 	NULL AS actualestcompletion, 
+-- 	NULL AS constrstart, 
+-- 	NULL AS designstart, 
+-- 	NULL AS forecastcapacity, 
+-- 	NULL AS fundingreqd15to19,
+-- 	NULL AS location, 
+-- 	NULL AS neededtocomplete, 
+-- 	NULL AS previousappropriations, 
+-- 	NULL AS projectid, 
+-- 	NULL AS totalestcost,
+-- 	district, 
+-- 	school AS schoolname, 
+-- 	programcategory AS description,
+-- 	(CASE 
+-- 		WHEN source = 'sca_cp_added_projects' THEN 'Added Projects' 
+-- 		WHEN source = 'sca_cp_advaned_projects' THEN 'Advanced Projects'
+-- 		WHEN source = 'sca_cp_advaned_projects' THEN 'Cancelled Projects' 
+-- 		ELSE NULL 
+-- 	END) AS type,
+-- 	source,
+-- 	geom
+-- FROM sca_cp_projects
+-- WHERE geom IS NOT NULL
+-- UNION ALL
 SELECT 
 	borough, 
 	NULL AS buildingid, 
