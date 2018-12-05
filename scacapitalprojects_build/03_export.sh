@@ -29,3 +29,6 @@ psql -U $DBUSER -d $DBNAME -c "COPY( SELECT * FROM qa_summary_stats) TO '$REPOLO
 #\copy (SELECT * FROM sca_cp_projects) TO '/prod/db-scacaptialprojects/scacapitalprojects_build/output/sca_cp_projects.csv' DELIMITER ',' CSV HEADER;
 \copy (SELECT * FROM qa_summary_stats) TO '/prod/db-scacaptialprojects/scacapitalprojects_build/output/qa_summary_stats.csv'DELIMITER ',' CSV HEADER;
 \copy (SELECT * FROM sca_output_carto) TO '/prod/db-scacaptialprojects/scacapitalprojects_build/output/sca_output_carto.csv'DELIMITER ',' CSV HEADER;
+
+\copy (SELECT * FROM sca_cp_capacity_projects WHERE geom IS NULL) TO '/prod/db-scacaptialprojects/scacapitalprojects_build/output/sca_cp_capacity_projects_nogeom.csv' DELIMITER ',' CSV HEADER;
+\copy (SELECT * FROM sca_cp_school_programs WHERE geom IS NULL) TO '/prod/db-scacaptialprojects/scacapitalprojects_build/output/sca_cp_school_programs_nogeom.csv' DELIMITER ',' CSV HEADER;
