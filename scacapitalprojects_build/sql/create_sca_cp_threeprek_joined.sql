@@ -7,7 +7,7 @@ CREATE TABLE sca_cp_threeprek_joined AS (
 		a.district, 
 		a.school, 
 		a.projectnum, 
-		'pre-k three capacity projects'::text AS description, 
+		'3k capacity projects'::text AS description, 
 		b.location, 
 		b.latitude, 
 		b.longitude, 
@@ -22,7 +22,7 @@ CREATE TABLE sca_cp_threeprek_joined AS (
 		a.previousappropriations, 
 		a.fundingreqdfy1519, 
 		a.neededtocomplete,
-		'sca_cp_threeprek_schools'::text AS source
+		'sca_cp_3k_schools'::text AS source
 	FROM sca_cp_threeprek_schools a
 	LEFT JOIN sca_cp_threeprek_location b
 	ON a.school = b.school);
