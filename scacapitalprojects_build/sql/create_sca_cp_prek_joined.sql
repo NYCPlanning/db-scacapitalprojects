@@ -1,6 +1,6 @@
 -- creating temp table for pre k capacity projects for sca_cp_capacity_projects
-DROP TABLE IF EXISTS sca_cp_prek_joined;
-CREATE TABLE sca_cp_prek_joined AS (
+DROP TABLE IF EXISTS sca_cp_prek_joined_cur;
+CREATE TABLE sca_cp_prek_joined_cur AS (
 	SELECT a.existingsiteidentified, 
 		a.proposedleasedfacility, 
 		a.forecastcapacity,
@@ -13,8 +13,8 @@ CREATE TABLE sca_cp_prek_joined AS (
 		b.longitude, 
 		a.actualestcompl, 
 		(CASE 
-			WHEN (split_part(a.actualestcompl,'-',1)) IN ('Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec') THEN split_part(a.actualestcompl,'-',2)::integer+2001
-			ELSE split_part(a.actualestcompl,'-',2)::integer+2000
+			WHEN (split_part(a.actualestcompl,'-',2)) IN ('Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec') THEN split_part(a.actualestcompl,'-',1)::integer+2001
+			ELSE split_part(a.actualestcompl,'-',1)::integer+2000
 		END) AS fy,
 		a.designstart, 
 		a.constrstart, 
@@ -22,7 +22,42 @@ CREATE TABLE sca_cp_prek_joined AS (
 		a.previousappropriations, 
 		a.fundingreqdfy1519, 
 		a.neededtocomplete,
-		'sca_cp_prek_schools'::text AS source
+		'sca_cp_prek_schools_cur'::text AS source
 	FROM sca_cp_prek_schools a
 	LEFT JOIN sca_cp_prek_location b
 	ON a.school = b.school);
+
+DROP TABLE IF EXISTS sca_cp_prek_joined_prev;
+CREATE TABLE sca_cp_prek_joined_prev AS (
+	SELECT a.existingsiteidentified, 
+		a.proposedleasedfacility, 
+		a.forecastcapacity,
+		a.district, 
+		a.school, 
+		a.projectnum, 
+		'pre-k capacity projects'::text AS description, 
+		b.location, 
+		NULL::text as latitude, 
+		NULL::text as longitude, 
+		a.actualestcompl, 
+		(CASE 
+			WHEN (split_part(a.actualestcompl,'-',2)) IN ('Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec') THEN split_part(a.actualestcompl,'-',1)::integer+2001
+			ELSE split_part(a.actualestcompl,'-',1)::integer+2000
+		END) AS fy,
+		a.designstart, 
+		a.constrstart, 
+		a.totalestcost, 
+		a.previousappropriations, 
+		a.fundingreqdfy1519, 
+		a.neededtocomplete,
+		'sca_cp_prek_schools_prev'::text AS source
+	FROM sca_cp_prek_schools_prev a
+	LEFT JOIN sca_cp_prek_location_prev b
+	ON a.school = b.school);
+
+DROP TABLE IF EXISTS sca_cp_prek_joined;
+CREATE TABLE sca_cp_prek_joined AS (
+SELECT a.* FROM sca_cp_prek_joined_cur a
+UNION 
+SELECT b.* FROM sca_cp_prek_joined_prev b
+WHERE b.projectnum NOT IN (SELECT a.projectnum FROM sca_cp_cap_schools a));

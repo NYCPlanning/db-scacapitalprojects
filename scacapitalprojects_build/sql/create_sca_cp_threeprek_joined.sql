@@ -13,8 +13,8 @@ CREATE TABLE sca_cp_threeprek_joined AS (
 		b.longitude, 
 		a.actualestcompl, 
 		(CASE 
-			WHEN (LEFT(a.actualestcompl,2)) IN ('07','08', '09', '10', '11', '12') THEN RIGHT(a.actualestcompl,4)::integer+1
-			ELSE RIGHT(a.actualestcompl,4)::integer
+			WHEN (substring(a.actualestcompl from '\-(.+)\-')) IN ('07','08', '09', '10', '11', '12') THEN LEFT(a.actualestcompl,4)::integer+1
+			ELSE LEFT(a.actualestcompl,4)::integer
 		END) AS fy,
 		a.designstart, 
 		a.constrstart, 
