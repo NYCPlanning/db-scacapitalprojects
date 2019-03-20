@@ -1,25 +1,24 @@
 -- get geometries got school programs
 DROP TABLE IF EXISTS sca_cp_school_programs;
 CREATE TABLE sca_cp_school_programs AS (
-	SELECT *
-	FROM sca_cp_programs
-);
+SELECT a.*, 'sca_cp_programs_cur'::text AS source
+FROM sca_cp_programs a
+UNION 
+SELECT b.*, 'sca_cp_programs_prev'::text AS source FROM sca_cp_programs_prev b
+WHERE b.projectnum NOT IN (SELECT a.projectnum FROM sca_cp_cap_schools a));
 
 ALTER TABLE sca_cp_school_programs
-ADD COLUMN source text,
 ADD COLUMN cd text,
 ADD COLUMN csd text,
 ADD COLUMN geom geometry;
 
-UPDATE sca_cp_school_programs
-SET source = 'sca_cp_programs';
-
 -- geoms from lcgms
 UPDATE sca_cp_school_programs a
-SET geom=b.geom
+SET geom=ST_SetSRID(ST_MakePoint(b.longitude::numeric, b.latitude::numeric),4326)
 FROM doe_facilities_lcgms b
 WHERE a.buildingid = b.buildingcode
-AND a.geom is NULL;
+AND a.geom is NULL
+AND b.longitude IS NOT NULL;
 
 -- lat long from blue book
 UPDATE sca_cp_school_programs a

@@ -13,8 +13,8 @@ CREATE TABLE sca_cp_class_size_reduction_join AS (
    		''::text as longitude, 
 		actualestcompl,
 		(CASE 
-			WHEN (substring(actualestcompl, strpos(actualestcompl,'-')+1, length(actualestcompl)) IN ('Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec')) THEN substring(actualestcompl, 1, strpos (actualestcompl,'-')-1)::integer+2001
-			ELSE substring(actualestcompl, 1, strpos (actualestcompl,'-')-1)::integer+2000
+			WHEN (split_part(actualestcompl, '-', 1) IN ('Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec')) THEN split_part(actualestcompl, '-', 2)::integer+2001
+			ELSE split_part(actualestcompl, '-', 2)::integer+2000
 		END) AS fy,
 		designstart, 
 		constrstart,

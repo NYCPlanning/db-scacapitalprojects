@@ -61,3 +61,6 @@ SELECT a.* FROM sca_cp_prek_joined_cur a
 UNION 
 SELECT b.* FROM sca_cp_prek_joined_prev b
 WHERE b.projectnum NOT IN (SELECT a.projectnum FROM sca_cp_cap_schools a));
+
+DROP TABLE IF EXISTS sca_cp_prek_joined_cur;
+DROP TABLE IF EXISTS sca_cp_prek_joined_prev;
