@@ -37,8 +37,8 @@ CREATE TABLE sca_cp_prek_joined_prev AS (
 		a.projectnum, 
 		'pre-k capacity projects'::text AS description, 
 		b.location, 
-		NULL::text as latitude, 
-		NULL::text as longitude, 
+		b.latitude, 
+		b.longitude, 
 		a.actualestcompl, 
 		(CASE 
 			WHEN (split_part(a.actualestcompl,'-',2)) IN ('Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec') THEN split_part(a.actualestcompl,'-',1)::integer+2001

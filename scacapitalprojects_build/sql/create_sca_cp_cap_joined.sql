@@ -38,8 +38,8 @@ SELECT a.existingsiteidentified,
 			a.projectnum, 
 			'capacity projects'::text AS description, 
 			b.location, 
-			NULL::text as latitude, 
-			NULL::text as longitude,
+			b.latitude, 
+			b.longitude,
 			a.actualestcompl, 
 			(CASE
     			WHEN (substring(a.actualestcompl, 1, strpos (a.actualestcompl,'-')-1) IN ('Jul','Aug', 'Sep', 'Oct', 'Nov', 'Dec') ) THEN substring(a.actualestcompl, strpos(a.actualestcompl,'-')+1, length(a.actualestcompl))::integer+2001
