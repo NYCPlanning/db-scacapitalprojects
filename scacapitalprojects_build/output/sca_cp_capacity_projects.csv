@@ -1,204 +1,4 @@
 existingsiteidentified,proposedleasedfacility,forecastcapacity,district,school,projectnum,description,location,latitude,longitude,actualestcompl,fy,designstart,constrstart,totalestcost,previousappropriations,fundingreqd,neededtocomplete,source,cd,borough,csd,geom
-Yes,Yes,90,31,FOREST AVENUE COMMUNITY EDUCATIONAL COMPLEX,DSF0000800050,pre-k capacity projects,1625 FOREST AVENUE,,,15-Sep,2016,14-Jun,14-Dec,21.89,0.01,21.88,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,224,31,FOREST AVENUE COMMUNITY EDUCATIONAL COMPLEX,DSF0000821684,capacity projects,1625 FOREST AVENUE,,,Sep-16,2017,Jun-14,Dec-14,27.49,0,27.49,,sca_cp_cap_schools_prev,,,,
-Yes,No,728,24,I.S. 125,DSF0000798199,capacity projects,,,,Sep-17,2018,Feb-14,Dec-15,117.66,0.3,117.36,,sca_cp_cap_schools_prev,,,,
-,,1479,78Q,PROJECT #3,DSF0000911861,capacity projects,,,,Jun-28,2028,Nov-22,Mar-24,197.85,0,176.15,21.7,sca_cp_cap_schools_cur,,,,
-*,,646,15,I.S. @ 21-31 & 35 DELEVAN STREET,DSF0000843826,capacity projects,21-31 & 35 DELEVAN STREET,,,Jun-24,2024,Sep-19,Feb-21,99.57,1.44,98.13,0,sca_cp_cap_schools_cur,,,,
-Yes,No,"1,016",2,I.S. 323,DSF0000798235,capacity projects,75 MORTON STREET,,,May-18,2018,Aug-13,Feb-15,181.4,44.1,137.3,,sca_cp_cap_schools_prev,,,,
-*,,536,30,I.S. @ 44-59 45 AVENUE,DSF0000843827,capacity projects,44-59 45 AVENUE,,,Jun-24,2024,Mar-20,Jun-21,92.38,0.11,92.26,0,sca_cp_cap_schools_cur,,,,
-Yes,Yes,309,31,I.S. 82,DSF0000798214,capacity projects,104 GORDON STREET,,,Jun-17,2017,Nov-15,Nov-16,15.14,0.01,15.13,,sca_cp_cap_schools_prev,,,,
-Yes,Yes,507,78Q,I.S./H.S. 336,DSF0000798226,capacity projects,,,,Sep-18,2019,Oct-13,Jul-16,27.77,0.45,27.32,,sca_cp_cap_schools_prev,,,,
-Yes,Yes,162,29,PRE-K CENTER @ 100-01 SPRINGFIELD BOULEVARD,DSF0000801025,pre-k capacity projects,100-01 SPRINGFIELD BOULEVARD,,,15-Jul,2016,14-Aug,14-Dec,8.73,0,8.73,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,72,24,PRE-K CENTER @ 104-14 ROOSEVELT AVENUE,DSF0000844698,pre-k capacity projects,104-14 ROOSEVELT AVENUE,,,17-Sep,2018,16-Aug,17-May,12.94,0,12.94,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,90,7,PRE-K CENTER @ 105 WILLIS AVENUE,DSF0000800054,pre-k capacity projects,105 WILLIS AVENUE,,,15-Jul,2016,14-Jun,14-Dec,8.61,0,8.61,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,36,24,PRE-K CENTER @ 106-02 NORTHERN BOULEVARD,DSF0000822098,pre-k capacity projects,106-02 NORTHERN BOULEVARD,,,16-Aug,2017,15-Jun,16-Feb,4.19,0,4.19,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,77,24,PRE-K CENTER @ 107-17 NORTHERN BOULEVARD,DSF0000822099,pre-k capacity projects,107-17 NORTHERN BOULEVARD,,,16-Jul,2017,15-Jun,16-Jan,5.7,0,5.7,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,54,24,PRE-K CENTER @ 108-18 ROOSEVELT AVENUE,DSF0000845581,pre-k capacity projects,108-18 ROOSEVELT AVENUE,,,18-Sep,2019,16-Oct,18-Mar,5.97,0,5.97,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,180,21,PRE-K CENTER @ 10 BOUCK COURT,DSF0000821873,pre-k capacity projects,10 BOUCK COURT,,,16-Aug,2017,15-Mar,16-Jan,17.78,0,17.78,0,sca_cp_prek_schools_prev,,,,
-No,Yes,306,24,PRE-K CENTER @ 111TH STREET,DSF0000844699,pre-k capacity projects,,,,20-Sep,2021,16-Aug,18-May,41.45,0,37.88,3.57,sca_cp_prek_schools_prev,,,,
-No,Yes,306,24,PRE-K CENTER @ 111TH STREET,DSF0000844699,pre-k capacity projects,,,,22-Mar,2022,16-Aug,19-Aug,41.49,3.55,37.94,0,sca_cp_prek_schools_cur,,,,
-Yes,Yes,144,22,PRE-K CENTER @ 1139 CONEY ISLAND AVENUE,DSF0000800113,pre-k capacity projects,1139 CONEY ISLAND AVENUE,,,15-Jul,2016,14-Jun,14-Dec,13.05,0,13.05,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,108,31,PRE-K CENTER @ 120 STUYVESANT PLACE,DSF0000800267,pre-k capacity projects,120 STUYVESANT PLACE,,,15-Aug,2016,14-Jul,15-Jan,19.26,0,19.26,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,108,21,PRE-K CENTER @ 1215 AVENUE X,DSF0000800303,pre-k capacity projects,1215 AVENUE X,,,15-Aug,2016,14-Jul,14-Dec,5.4,0,5.4,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,72,21,PRE-K CENTER @ 1223 CONEY ISLAND AVENUE,DSF0000821960,pre-k capacity projects,1223 CONEY ISLAND AVENUE,,,17-Jul,2018,15-Apr,16-Jan,10.91,0,10.91,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,144,25,PRE-K CENTER @ 123-07 22ND AVENUE,DSF0000821868,pre-k capacity projects,123-07 22ND AVENUE,,,17-Sep,2018,15-Feb,15-Dec,6.68,0,6.68,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,126,20,PRE-K CENTER @ 1258 65TH STREET,DSF0000800123,pre-k capacity projects,1258 65TH STREET,,,15-Jul,2016,14-Jun,14-Dec,12.31,0,12.31,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,36,15,PRE-K CENTER @ 131 UNION STREET,DSF0000822084,pre-k capacity projects,131 UNION STREET,,,16-Sep,2017,15-Jun,16-Feb,7.33,0,7.33,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,90,28,PRE-K CENTER @ 132-10 JAMAICA AVENUE,DSF0000800124,pre-k capacity projects,132-10 JAMAICA AVENUE,,,15-Jun,2015,14-Jun,14-Dec,11.98,0,11.98,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,252,22,PRE-K CENTER @ 1340 EAST 29TH STREET,DSF0000822027,pre-k capacity projects,1340 EAST 29TH STREET,,,15-Sep,2016,15-Mar,15-May,15.65,0,15.65,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,90,20,PRE-K CENTER @ 1355 84TH STREET,DSF0000800057,pre-k capacity projects,1355 84TH STREET,,,15-Sep,2016,14-Jun,15-Jan,12.43,0,12.43,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,72,20,PRE-K CENTER @ 1355 84TH STREET,DSF0000822162,pre-k capacity projects,1355 84TH STREET,,,16-Sep,2017,15-May,15-Aug,0.4,0,0.4,0,sca_cp_prek_schools_prev,,,,
-Yes,No,126,20,PRE-K CENTER @ 140A 58TH STREET,DSF0000821967,pre-k capacity projects,140A 58TH STREET,,,15-Sep,2016,15-Apr,15-Jun,16.7,0,16.7,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,324,20,PRE-K CENTER @ 1423 62ND STREET,DSF0000821958,pre-k capacity projects,1423 62ND STREET,,,17-Aug,2018,15-Apr,16-May,34.71,0,34.71,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,90,9,PRE-K CENTER @ 1434 OGDEN AVENUE,DSF0000801087,pre-k capacity projects,1434 OGDEN AVENUE,,,15-Aug,2016,14-Oct,15-Mar,10.57,0,10.57,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,108,25,PRE-K CENTER @ 14-45 143RD STREET,DSF0000821980,pre-k capacity projects,14-45 143RD STREET,,,16-Jul,2017,15-Apr,16-Jan,3.85,0,3.85,0,sca_cp_prek_schools_prev,,,,
-Yes,No,555,78Q,FRANCIS LEWIS HS ANNEX,DSF0000821799,capacity projects,58-20 UTOPIA PARKWAY,,,Jul-21,2022,Apr-17,Jul-18,74.92,0,67.29,,sca_cp_cap_schools_prev,,,,0101000020E610000069520ABABD7252C060AE450BD05E4440
-Yes,No,725,30,I.S. @ 38-04 48TH STREET,DSF0000843825,capacity projects,38-04 48TH STREET,,,Jun-22,2022,Feb-18,Jun-19,74.18,0,67.84,,sca_cp_cap_schools_prev,,,,0101000020E6100000B343FCC3967A52C05A7F4B00FE5F4440
-Yes,Yes,180,20,PRE-K CENTER @ 1668 46TH STREET,DSF0000800047,pre-k capacity projects,1668 46TH STREET,,,15-Jul,2016,14-Jun,14-Nov,7.13,0.02,7.11,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,90,2,PRE-K CENTER @ 1683 3RD AVENUE,DSF0000867184,pre-k capacity projects,,,,18-Sep,2019,17-Aug,18-Mar,15,0,15,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,126,29,PRE-K CENTER @ 168-42 JAMAICA AVENUE,DSF0000800116,pre-k capacity projects,168-42 JAMAICA AVENUE,,,15-Jun,2015,14-Jun,14-Dec,18.22,0,18.22,0,sca_cp_prek_schools_prev,,,,
-Yes,No,180,15,PRE-K CENTER @ 168 8TH STREET,DSF0000821899,pre-k capacity projects,168 8TH STREET,,,21-Aug,2022,17-Dec,19-Feb,23.03,0,20.95,2.08,sca_cp_prek_schools_prev,,,,
-Yes,Yes,108,15,PRE-K CENTER @ 173 25TH STREET,DSF0000821928,pre-k capacity projects,173 25TH STREET,,,15-Aug,2016,15-Mar,15-May,8.78,0,8.78,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,144,31,PRE-K CENTER @ 1 TELEPORT DRIVE,DSF0000800328,pre-k capacity projects,1 TELEPORT DRIVE,,,15-Sep,2016,14-Aug,14-Dec,15.45,0,15.45,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,90,20,PRE-K CENTER @ 2165 71ST STREET,DSF0000821713,pre-k capacity projects,2165 71ST STREET,,,16-Aug,2017,14-Dec,15-May,21.12,0,21.12,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,72,15,PRE-K CENTER @ 219 25TH STREET,DSF0000822214,pre-k capacity projects,219 25TH STREET,,,17-Sep,2018,15-Jul,16-Apr,12.05,0,12.05,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,234,20,PRE-K CENTER @ 21 BAY 11TH STREET,DSF0000822014,pre-k capacity projects,21 BAY 11TH STREET,,,15-Sep,2016,15-Jan,15-Aug,0.22,0,0.22,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,54,20,PRE-K CENTER @ 21 BAY 11TH STREET,DSF0000822082,pre-k capacity projects,21 BAY 11TH STREET,,,16-Sep,2017,15-Apr,16-Jan,11.78,0,11.78,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,108,21,PRE-K CENTER @ 2202 60TH STREET,DSF0000800230,pre-k capacity projects,2202 60TH STREET,,,15-Jul,2016,14-Jun,15-Jan,5.3,0,5.3,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,108,2,PRE-K CENTER @ 2-26 WASHINGTON ST,DSF0000800052,pre-k capacity projects,2-26 WASHINGTON STREET,,,15-Sep,2016,14-Jun,15-Jan,13.34,0.01,13.33,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,198,10,PRE-K CENTER @ 2490-2500 WEBSTER AVENUE,DSF0000821875,pre-k capacity projects,2490-2500 WEBSTER AVENUE,,,17-Sep,2018,15-Apr,16-Feb,16.29,0,16.29,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,36,10,PRE-K CENTER @ 2510 MARION AVENUE,DSF0000822032,pre-k capacity projects,2510 MARION AVENUE,,,16-Sep,2017,15-May,16-Mar,13.31,0,13.31,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,234,10,PRE-K CENTER @ 2510 MARION AVENUE,DSF0000822030,pre-k capacity projects,2510 MARION AVENUE,,,15-Sep,2016,15-May,15-Jul,0.21,0,0.21,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,144,2,PRE-K CENTER @ 252 EAST 57 STREET,DSF0000866268,pre-k capacity projects,,,,18-Sep,2019,17-May,18-Mar,19.01,0,19.01,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,180,30,PRE-K CENTER @ 27-35 JACKSON AVENUE,DSF0000843935,pre-k capacity projects,27-35 JACKSON AVENUE,,,17-Sep,2018,16-Jan,16-Dec,11.21,0,11.21,0,sca_cp_prek_schools_prev,,,,
-Yes,No,36,2,PRE-K CENTER @ 2 LAFAYETTE STREET,DSF0000821653,pre-k capacity projects,2 LAFAYETTE STREET,,,16-Aug,2017,14-Oct,15-Jul,8.76,0,8.76,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,54,15,PRE-K CENTER @ 305-307 THIRD AVENUE,DSF0000821832,pre-k capacity projects,305-307 THIRD AVENUE,,,16-Aug,2017,15-Mar,15-Nov,10,0,10,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,270,30,PRE-K CENTER @ 32-52 37TH STREET,DSF0000822015,pre-k capacity projects,32-52 37TH STREET,,,15-Sep,2016,15-Apr,15-Aug,0.63,0,0.63,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,126,30,PRE-K CENTER @ 32-52 37TH STREET,DSF0000821858,pre-k capacity projects,32-52 37TH STREET,,,17-Jul,2018,15-Apr,16-Jul,10.27,0,10.27,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,90,10,PRE-K CENTER @ 3560 WEBSTER AVENUE,DSF0000821711,pre-k capacity projects,3560 WEBSTER AVENUE,,,16-Sep,2017,14-Dec,15-Sep,8.04,0,8.04,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,36,10,PRE-K CENTER @ 3605 SEDGWICK AVENUE,DSF0000821874,pre-k capacity projects,3605 SEDGWICK AVENUE,,,16-Sep,2017,15-Apr,15-Dec,5.29,0,5.29,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,144,22,PRE-K CENTER @ 3610 GLENWOOD ROAD,DSF0000822024,pre-k capacity projects,3610 GLENWOOD ROAD,,,15-Sep,2016,15-Mar,15-May,14.86,0,14.86,0,sca_cp_prek_schools_prev,,,,
-Yes,No,252,20,PRE-K CENTER @ 369 93RD STREET,DSF0000821813,pre-k capacity projects,369 93RD STREET,,,18-Sep,2019,15-Feb,16-Jun,43.52,0,43.52,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,126,21,PRE-K CENTER @ 385 AVENUE W,DSF0000822037,pre-k capacity projects,385 AVENUE W,,,15-Sep,2016,15-Apr,15-May,3.96,0,3.96,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,144,24,PRE-K CENTER @ 44-15 JUDGE STREET,DSF0000800248,pre-k capacity projects,44-15 JUDGE STREET,,,15-Jun,2015,14-Jun,14-Dec,6.05,0,6.05,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,108,24,PRE-K CENTER @ 46-16 76TH STREET,DSF0000800114,pre-k capacity projects,46-16 76TH STREET,,,15-Aug,2016,14-Jun,14-Dec,15.86,0,15.86,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,180,7,PRE-K CENTER @ 535 UNION AVENUE,DSF0000800055,pre-k capacity projects,535 UNION AVENUE,,,15-Jul,2016,14-Jun,14-Dec,13.16,0,13.16,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,54,24,PRE-K CENTER @ 54-25 101ST STREET,DSF0000844691,pre-k capacity projects,,,,18-Sep,2019,16-Sep,17-Jul,3.32,0,3.32,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,54,10,PRE-K CENTER @ 5500 BROADWAY,DSF0000821828,pre-k capacity projects,5500 BROADWAY,,,16-Sep,2017,15-Apr,16-Feb,5.87,0,5.87,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,162,20,PRE-K CENTER @ 550 59TH STREET,DSF0000800304,pre-k capacity projects,550 59TH STREET,,,16-Aug,2017,14-Jul,15-Dec,9.97,0,9.97,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,162,24,PRE-K CENTER @ 56-01 61ST STREET,DSF0000822111,pre-k capacity projects,56-01 61ST STREET,,,15-Sep,2016,15-May,15-Jul,7.25,0,7.25,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,36,24,PRE-K CENTER @ 57-06 99TH STREET,DSF0000844747,pre-k capacity projects,57-06 99TH STREET,,,17-Sep,2018,16-Sep,17-Jun,6.44,0,6.44,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,90,20,PRE-K CENTER @ 6309 4TH AVENUE,DSF0000866170,pre-k capacity projects,,,,24-Sep,2025,16-Nov,23-Mar,7.52,0.66,6.54,0.32,sca_cp_prek_schools_cur,,,,
-Yes,Yes,180,24,PRE-K CENTER @ 68-20 MYRTLE AVENUE,DSF0000800282,pre-k capacity projects,68-20 MYRTLE AVENUE,,,15-Jul,2016,14-Jul,14-Dec,7.88,0,7.88,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,180,2,PRE-K CENTER @ 355 EAST 76 STREET,DSF0000866155,pre-k capacity projects,355 EAST 76 STREET,,,19-Sep,2020,17-Apr,18-Mar,35.01,0,33.43,1.58,sca_cp_prek_schools_prev,,,,0101000020E61000008940F50F227D52C0B4E55C8AAB624440
-Yes,Yes,90,24,PRE-K CENTER @ 70-24 47TH AVENUE,DSF0000822186,pre-k capacity projects,70-24 47TH AVENUE,,,17-Sep,2018,15-Jun,16-Apr,4.19,0,4.19,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,270,20,PRE-K CENTER @ 7401 FORT HAMILTON PARKWAY,DSF0000822086,pre-k capacity projects,7401 FORT HAMILTON PARKWAY,,,15-Sep,2016,15-May,15-Jul,14.78,0,14.78,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,72,28,PRE-K CENTER @ 83-30 KEW GARDENS ROAD,DSF0000801086,pre-k capacity projects,83-30 KEW GARDENS ROAD,,,15-Aug,2016,14-Sep,15-Mar,7.36,0,7.36,0,sca_cp_prek_schools_prev,,,,
-Yes,No,18,20,PRE-K CENTER @ 8501 5TH AVENUE,DSF0000821654,pre-k capacity projects,8501 5TH AVENUE,,,15-Sep,2016,14-Oct,15-Apr,6.14,0,6.14,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,72,28,PRE-K CENTER @ 89-14 PARSONS BOULEVARD,DSF0000800117,pre-k capacity projects,89-14 PARSONS BOULEVARD,,,15-Jun,2015,14-Jun,14-Dec,7.43,0,7.43,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,108,30,PRE-K CENTER @ 96-10 23RD AVENUE,DSF0000800058,pre-k capacity projects,96-10 23RD AVENUE,,,15-Jun,2015,14-Jun,14-Dec,11.17,0.01,11.17,0,sca_cp_prek_schools_prev,,,,
-,,476,11,PROJECT #3,DSF0000889274,capacity projects,,,,Jun-23,2023,Jun-19,Sep-20,63.28,5.06,58.22,0,sca_cp_cap_schools_cur,,,,
-Yes,Yes,54,24,PRE-K CENTER @ 98-22 55 AVENUE,DSF0000865849,pre-k capacity projects,98-22 55 AVENUE,,,17-Sep,2018,17-Jan,17-Apr,0.36,0,0.36,0,sca_cp_prek_schools_prev,,,,
-No,No,18,24,PRE-K CENTER @ CORONA AVENUE,DSF0000866312,pre-k capacity projects,,,,18-Sep,2019,17-Jun,18-Mar,4.94,0,4.94,0,sca_cp_prek_schools_prev,,,,
-No,Yes,72,2,PRE-K CENTER @ WEST 57TH STREET,DSF0000865846,pre-k capacity projects,,,,19-Sep,2020,16-Dec,18-May,7.99,0,7.62,0.37,sca_cp_prek_schools_prev,,,,
-,,476,22,PROJECT #1,DSF0000911867,capacity projects,,,,Mar-27,2027,May-23,Jun-24,78.33,0,69.8,8.53,sca_cp_cap_schools_cur,,,,
-,,824,20,PROJECT #1,DSF0000798187,capacity projects,,,,Jun-24,2024,Jan-20,Apr-21,137.71,10.3,127.41,0,sca_cp_cap_schools_cur,,,,
-,,572,7,PROJECT #1,DSF0000798173,capacity projects,,,,Jun-24,2024,Jun-20,Oct-21,92.38,0.11,92.26,0,sca_cp_cap_schools_cur,,,,
-,,824,25,PROJECT #1,DSF0000911866,capacity projects,,,,Mar-28,2028,Mar-23,Jun-24,134.58,0,119.85,14.73,sca_cp_cap_schools_cur,,,,
-,,476,30,PROJECT #1,DSF0000911869,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
-,,824,10,PROJECT #1,DSF0000843830,capacity projects,,,,Jun-27,2027,Jun-22,Dec-23,134.58,0.01,119.84,14.72,sca_cp_cap_schools_cur,,,,
-,,640,26,PROJECT #1,DSF0000911855,capacity projects,,,,Mar-27,2027,Sep-22,Dec-23,106.45,0,94.83,11.63,sca_cp_cap_schools_cur,,,,
-,L,476,2,PROJECT #1,DSF0000798172,capacity projects,,,,Mar-24,2024,Mar-20,Jun-21,21.84,1.02,20.83,0,sca_cp_cap_schools_cur,,,,
-,L,476,12,PROJECT #1,DSF0000798238,capacity projects,,,,Mar-24,2024,Jun-20,Sep-21,20.85,0.16,20.69,0,sca_cp_cap_schools_cur,,,,
-,,572,8,PROJECT #1,DSF0000911814,capacity projects,,,,Mar-25,2025,Mar-21,Jun-22,95.19,0,88.49,6.7,sca_cp_cap_schools_cur,,,,
-,L,824,28,PROJECT #1,DSF0000888931,capacity projects,,,,Aug-25,2026,Jan-21,Apr-22,42.15,0,38.25,3.9,sca_cp_cap_schools_cur,,,,
-,,824,24,PROJECT #1,DSF0000843831,capacity projects,,,,Sep-24,2025,Mar-20,Jun-21,127.56,0.04,123.93,3.6,sca_cp_cap_schools_cur,,,,
-No,Yes,506,25,PROJECT #1,DSF0000888955,capacity projects,,,,Jun-22,2022,Jun-18,Sep-19,31.49,0,2.39,,sca_cp_cap_schools_prev,,,,
-,L,612,14,PROJECT #1,DSF0000687094,capacity projects,,,,Jun-27,2027,Jun-23,Sep-24,28.01,0.11,2.11,25.78,sca_cp_cap_schools_cur,,,,
-,,476,13,PROJECT #1,DSF0000843824,capacity projects,,,,Mar-25,2025,Mar-21,Jun-22,71.31,0.14,66.19,4.97,sca_cp_cap_schools_cur,,,,
-,,476,9,PROJECT #1,DSF0000911815,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
-,,1202,78Q,PROJECT #1,DSF0000911856,capacity projects,,,,Mar-26,2026,Nov-20,Mar-22,183.8,0,166.9,16.9,sca_cp_cap_schools_cur,,,,
-,,476,21,PROJECT #1,DSF0000911840,capacity projects,,,,Mar-27,2027,Mar-23,Jun-24,78.33,0,69.8,8.53,sca_cp_cap_schools_cur,,,,
-,,640,15,PROJECT #1,DSF0000866091,capacity projects,,,,Jun-24,2024,Mar-20,Jun-21,99.43,0,99.43,0,sca_cp_cap_schools_cur,,,,
-,,476,19,PROJECT #1,DSF0000911836,capacity projects,,,,Mar-27,2027,Mar-23,Jun-24,78.33,0,69.8,8.53,sca_cp_cap_schools_cur,,,,
-,,476,31,PROJECT #1,DSF0000911847,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
-,,572,29,PROJECT #1,DSF0000911863,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,96.59,0,87.75,8.84,sca_cp_cap_schools_cur,,,,
-,,476,27,PROJECT #1,DSF0000911857,capacity projects,,,,Mar-25,2025,Jan-21,Apr-22,74.11,0,68.91,5.2,sca_cp_cap_schools_cur,,,,
-,,824,11,PROJECT #1,DSF0000911831,capacity projects,,,,Jun-25,2025,Jun-20,Dec-21,127.55,0,118.55,9,sca_cp_cap_schools_cur,,,,
-,L,1202,78Q,PROJECT #2,DSF0000911858,capacity projects,,,,Jun-26,2026,Nov-21,Mar-23,186.87,0,169.58,17.29,sca_cp_cap_schools_cur,,,,
-,L,824,11,PROJECT #2,DSF0000911832,capacity projects,,,,Jun-26,2026,Jun-21,Dec-22,42.15,0,38.25,3.9,sca_cp_cap_schools_cur,,,,
-,L,824,26,PROJECT #2,DSF0000911853,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,129.26,0,117.3,11.96,sca_cp_cap_schools_cur,,,,
-,L,572,10,PROJECT #2,DSF0000798174,capacity projects,,,,Sep-25,2026,Jun-21,Sep-22,20.92,0.14,19,1.77,sca_cp_cap_schools_cur,,,,
-,,379,14,PROJECT #2,DSF0000798240,capacity projects,,,,Sep-24,2025,Nov-20,Feb-22,57.25,0,55.65,1.6,sca_cp_cap_schools_cur,,,,
-,L,824,20,PROJECT #2,DSF0000798188,capacity projects,,,,Jun-26,2026,Jan-22,Apr-23,49.29,0.21,44.59,4.49,sca_cp_cap_schools_cur,,,,
-,L,640,27,PROJECT #2,DSF0000798206,capacity projects,,,,Sep-24,2025,Jun-20,Sep-21,28.1,0.12,27.19,0.79,sca_cp_cap_schools_cur,,,,
-,,476,21,PROJECT #2,DSF0000911841,capacity projects,,,,Mar-26,2026,Mar-21,Jun-22,71.3,0,64.8,6.5,sca_cp_cap_schools_cur,,,,
-,,640,22,PROJECT #2,DSF0000911846,capacity projects,,,,Jun-25,2025,Mar-21,Jun-22,99.43,0,92.43,7,sca_cp_cap_schools_cur,,,,
-,L,640,15,PROJECT #2,DSF0000890667,capacity projects,,,,Sep-25,2026,Jun-21,Sep-22,29.87,0.01,27.21,2.64,sca_cp_cap_schools_cur,,,,
-,,476,29,PROJECT #2,DSF0000911864,capacity projects,,,,Jun-26,2026,Sep-22,Dec-23,76.92,0,68.55,8.37,sca_cp_cap_schools_cur,,,,
-,,824,25,PROJECT #2,DSF0000911834,capacity projects,,,,Mar-26,2026,Mar-21,Jun-22,127.55,0,115.85,11.7,sca_cp_cap_schools_cur,,,,
-,L,476,31,PROJECT #2,DSF0000911850,capacity projects,,,,Mar-25,2025,Mar-21,Jun-22,21.08,0,19.58,1.5,sca_cp_cap_schools_cur,,,,
-,,572,9,PROJECT #2,DSF0000889664,capacity projects,,,,Apr-24,2024,Jul-19,Apr-21,90.97,0.02,90.95,0,sca_cp_cap_schools_cur,,,,
-,L,640,30,PROJECT #2,DSF0000798211,capacity projects,,,,Jun-24,2024,Mar-20,Jun-21,28.1,0.03,28.07,0,sca_cp_cap_schools_cur,,,,
-,L,640,28,PROJECT #2,DSF0000911860,capacity projects,,,,Mar-27,2027,Sep-22,Dec-23,28.1,0,25,3.1,sca_cp_cap_schools_cur,,,,
-,,640,2,PROJECT #2,DSF0000911799,capacity projects,,,,Mar-25,2025,Sep-20,Dec-21,92.85,0,86.32,6.53,sca_cp_cap_schools_cur,,,,
-,,640,24,PROJECT #2,DSF0000889651,capacity projects,,,,Apr-23,2023,Jul-19,Sep-20,96.62,0.02,96.6,0,sca_cp_cap_schools_cur,,,,
-,,476,25,PROJECT #3,DSF0000911835,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
-,,640,20,PROJECT #3,DSF0000843829,capacity projects,,,,Sep-25,2026,Jun-21,Sep-22,102.25,0.12,92.83,9.3,sca_cp_cap_schools_cur,,,,
-,,476,26,PROJECT #3,DSF0000889663,capacity projects,,,,Jun-23,2023,Jul-19,Oct-20,63.28,0.06,63.22,0,sca_cp_cap_schools_cur,,,,
-,,476,21,PROJECT #3,DSF0000911842,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
-No,No,656,13,PROJECT #3,DSF0000843661,capacity projects,,,,Jun-22,2022,Jun-18,Sep-19,50.63,0,4.83,,sca_cp_cap_schools_prev,,,,
-,,1000,30,PROJECT #3,DSF0000798212,capacity projects,,,,Jun-28,2028,Jun-23,Sep-24,155.7,0.07,13.24,142.39,sca_cp_cap_schools_cur,,,,
-,,640,28,PROJECT #3,DSF0000911862,capacity projects,,,,Jun-25,2025,Mar-21,Jun-22,99.43,0,92.43,7,sca_cp_cap_schools_cur,,,,
-,,640,10,PROJECT #3,DSF0000867118,capacity projects,,,,Jun-24,2024,Mar-20,Jun-21,99.43,0.01,99.43,0,sca_cp_cap_schools_cur,,,,
-,,476,31,PROJECT #3,DSF0000911848,capacity projects,,,,Mar-27,2027,Mar-23,Jun-24,76.92,0,68.55,8.37,sca_cp_cap_schools_cur,,,,
-,,640,27,PROJECT #3,DSF0000889273,capacity projects,,,,Mar-25,2025,Apr-21,Jun-22,99.43,0.09,92.37,6.97,sca_cp_cap_schools_cur,,,,
-,,824,10,PROJECT #4,DSF0000911830,capacity projects,,,,Jun-27,2027,Jun-22,Dec-23,134.58,0,119.85,14.73,sca_cp_cap_schools_cur,,,,
-,,1202,78Q,PROJECT #4,DSF0000889275,capacity projects,,,,Sep-25,2026,May-20,Jan-22,179.08,38.12,128.64,12.32,sca_cp_cap_schools_cur,,,,
-,,476,31,PROJECT #4,DSF0000889060,capacity projects,,,,Mar-24,2024,Apr-20,Jul-21,71.71,0.07,71.63,0,sca_cp_cap_schools_cur,,,,
-,,476,25,PROJECT #4,DSF0000911839,capacity projects,,,,Sep-26,2027,Sep-22,Dec-23,75.52,0,67.3,8.22,sca_cp_cap_schools_cur,,,,
-,,572,28,PROJECT #4,DSF0000911859,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,96.59,0,87.75,8.84,sca_cp_cap_schools_cur,,,,
-,,476,30,PROJECT #4,DSF0000889670,capacity projects,,,,Apr-25,2025,Jun-21,Sep-22,74.11,0,67.61,6.5,sca_cp_cap_schools_cur,,,,
-,L,476,21,PROJECT #4,DSF0000911844,capacity projects,,,,Mar-26,2026,Mar-23,Jun-24,29.51,0,26.25,3.26,sca_cp_cap_schools_cur,,,,
-,L,640,20,PROJECT #4,DSF0000798191,capacity projects,,,,Jun-24,2024,Mar-20,Jun-21,28.11,0.11,27.99,0,sca_cp_cap_schools_cur,,,,
-,,640,21,PROJECT #5,DSF0000911868,capacity projects,,,,Jun-27,2027,Mar-23,Jun-24,106.45,0,94.83,11.63,sca_cp_cap_schools_cur,,,,
-,,476,31,PROJECT #5,DSF0000911852,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
-,,476,20,PROJECT #5,DSF0000798190,capacity projects,,,,Jun-25,2025,Jun-21,Sep-22,74.11,0.02,67.6,6.49,sca_cp_cap_schools_cur,,,,
-,L,640,25,PROJECT #5,DSF0000911843,capacity projects,,,,Jun-25,2025,Mar-21,Jun-22,28.1,0,26.1,2,sca_cp_cap_schools_cur,,,,
-No,No,420,15,PROJECT #6,DSF0000866306,capacity projects,,,,Jun-22,2022,Jun-18,Sep-19,60.99,0,4.59,,sca_cp_cap_schools_prev,,,,
-,,640,25,PROJECT #6,DSF0000911845,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,100.83,0,91.6,9.23,sca_cp_cap_schools_cur,,,,
-,,692,31,PROJECT #6,DSF0000911854,capacity projects,,,,Jun-27,2027,Sep-22,Dec-23,106.45,0,94.83,11.63,sca_cp_cap_schools_cur,,,,
-,L,824,20,PROJECT #6,DSF0000845622,capacity projects,,,,Jun-25,2025,Jan-21,Apr-22,49.18,0.02,45.65,3.5,sca_cp_cap_schools_cur,,,,
-,L,476,20,PROJECT #7,DSF0000798567,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,20.97,0.29,18.99,1.69,sca_cp_cap_schools_cur,,,,
-,,572,25,PROJECT #7,DSF0000911849,capacity projects,,,,Sep-26,2027,Sep-22,Dec-23,92.38,0,82.3,10.08,sca_cp_cap_schools_cur,,,,
-,,824,20,PROJECT #8,DSF0000911837,capacity projects,,,,Jun-25,2025,Jun-20,Dec-21,130.36,0,121.16,9.2,sca_cp_cap_schools_cur,,,,
-,L,824,20,PROJECT #9,DSF0000911838,capacity projects,,,,Jun-26,2026,Jun-21,Dec-22,49.18,0,44.63,4.55,sca_cp_cap_schools_cur,,,,
-Yes,No,456,21,P.S. 101,DSF0000798192,capacity projects,,,,Jun-19,2019,May-15,Dec-16,90.96,0,90.96,,sca_cp_cap_schools_prev,,,,
-Yes,No,364,20,P.S. 127,DSF0000798189,capacity projects,,,,May-21,2021,Feb-17,May-18,92.06,0,84.04,,sca_cp_cap_schools_prev,,,,
-Yes,No,440,24,P.S. 128,DSF0000821576,capacity projects,,,,Jun-20,2020,Mar-16,Jun-17,45.11,0,41.41,,sca_cp_cap_schools_prev,,,,
-Yes,No,548,25,P.S. 129,DSF0000843833,capacity projects,,,,Sep-20,2021,Sep-16,May-18,67.15,0,61.44,,sca_cp_cap_schools_prev,,,,
-*,L,132,31,P.S. 13 ANNEX,DSF0000889041,capacity projects,457 TOMKINS AVENUE,,,Sep-20,2021,Sep-18,Jul-19,14.05,1.13,12.93,0,sca_cp_cap_schools_cur,,,,
-Yes,No,344,8,P.S. 14,DSF0000798233,capacity projects,,,,Sep-18,2019,Feb-15,Jul-16,70.99,0.18,70.81,,sca_cp_cap_schools_prev,,,,
-Yes,No,980,24,P.S. 143,DSF0000798195,capacity projects,,,,Sep-20,2021,Jan-16,Jul-17,125.07,0.07,114.28,,sca_cp_cap_schools_prev,,,,
-Yes,Yes,211,24,P.S. 143 ANNEX,DSF0000798197,capacity projects,98-07 38TH AVENUE,,,Sep-18,2019,Dec-15,Aug-17,12.46,0,12.46,,sca_cp_cap_schools_prev,,,,
-Yes,No,590,28,P.S. 144,DSF0000798209,capacity projects,,,,Sep-19,2020,Dec-15,Jul-17,72.41,0,69.06,,sca_cp_cap_schools_prev,,,,
-Yes,No,640,24,P.S. 19,DSF0000798568,capacity projects,,,,Sep-18,2019,Mar-15,Jul-16,113.87,0.01,113.85,,sca_cp_cap_schools_prev,,,,
-Yes,No,250,28,P.S. 196,DSF0000843834,capacity projects,,,,Jun-22,2022,Apr-18,Jul-19,37.5,0,2.88,,sca_cp_cap_schools_prev,,,,
-Yes,,Replacement,24,P.S. 19 MINISCHOOL,DSF0000798568,replacement projects,,,,Sep-18,2019,Mar-15,Jul-16,14.22,0.00,14.22,0.00,sca_cp_rep_schools,,,,
-Yes,,384,29,P.S. 131 ADDITION,DSF0000843904,class size reduction projects,,,,Jul-21,2022,Mar-17,Jun-18,75.84,0.00,69.23,6.61,sca_cp_class_size_reduction,,,,0101000020E610000042CC2555DB7252C0FA60191BBA5B4440
-,,476,31,PROJECT #7,DSF0000798213,capacity projects,,,,Jun-25,2025,Apr-21,Jul-22,50.25,0.17,45.94,4.14,sca_cp_cap_schools_cur,,,,
-Yes,,Replacement,30,P.S. 2,DSF0000888778,replacement projects,,,,Sep-21,2022,Dec-17,Mar-19,45.00,0.00,40.20,4.80,sca_cp_rep_schools,,,,
-Yes,No,392,28,P.S. 206,DSF0000888762,capacity projects,,,,Jun-22,2022,Mar-18,Jun-19,43.15,0,38.55,,sca_cp_cap_schools_prev,,,,
-Yes,,Replacement,25,P.S. 24,DSF0000798203,replacement projects,,,,Sep-18,2019,Dec-14,Jul-16,9.26,0.00,9.25,0.00,sca_cp_rep_schools,,,,
-Yes,No,600,25,P.S. 24,DSF0000798203,capacity projects,,,,Sep-18,2019,Dec-14,Jul-16,113.37,0.05,113.33,,sca_cp_cap_schools_prev,,,,
-Yes,No,416,22,P.S. 254,DSF0000798194,capacity projects,,,,Jun-21,2021,Jul-17,Oct-18,64.94,0,58.08,,sca_cp_cap_schools_prev,,,,
-Yes,No,296,10,P.S. 340 GYM ANNEX,DSF0000798176,capacity projects,,,,Sep-21,2022,Sep-17,Dec-18,65.92,0.02,58.95,,sca_cp_cap_schools_prev,,,,
-Yes,No,500,10,P.S. 46,DSF0000798175,capacity projects,,,,Jun-19,2019,Feb-15,Dec-16,120,0.07,119.93,,sca_cp_cap_schools_prev,,,,
-*,,450,2,P.S. 464,DSF0000798170,capacity projects,,,,Jun-22,2022,May-15,Mar-20,166.13,102.82,63.31,0,sca_cp_cap_schools_cur,,,,
-Yes,No,333,24,P.S. 49,DSF0000798200,capacity projects,,,,Sep-17,2018,Mar-14,Dec-15,44.64,0.13,44.52,,sca_cp_cap_schools_prev,,,,
-Yes,Yes,113,15,P.S. 516 SUNSET PARK AVENUES ELEMENTARY SCHOOL,DSF0000799396,capacity projects,4222 4TH AVENUE,,,Jul-16,2017,Jan-14,Jul-14,11.6,0.12,11.49,,sca_cp_cap_schools_prev,,,,
-Yes,No,124,27,P.S. 66,DSF0000801039,capacity projects,,,,Sep-19,2020,Aug-15,Jun-17,42.14,0,40.42,,sca_cp_cap_schools_prev,,,,
-Yes,Yes,224,15,P.S. @ 736 48TH STREET,DSF0000866093,capacity projects,736 48TH STREET,,,Sep-18,2019,May-17,Jun-18,16.49,0,16.49,,sca_cp_cap_schools_prev,,,,
-Yes,No,468,21,P.S. 97,DSF0000798193,capacity projects,,,,Jun-21,2021,Mar-17,Jul-18,68.12,0,61,,sca_cp_cap_schools_prev,,,,
-Yes,No,548,11,P.S. 97,DSF0000798178,capacity projects,,,,Apr-21,2021,Feb-17,Apr-18,93.29,0.11,85.03,,sca_cp_cap_schools_prev,,,,
-*,,572,9,P.S. @ EDWARD L GRANT HIGHWAY,DSF0000889040,capacity projects,,,,Jun-23,2023,Mar-19,Jun-20,87.8,22.07,65.73,0,sca_cp_cap_schools_cur,,,,
-*,,462,2,P.S. @ HUDSON SQUARE,DSF0000798236,capacity projects,2 HUDSON SQUARE,,,Jun-23,2023,Apr-18,Jun-21,64.28,5.01,59.27,0,sca_cp_cap_schools_cur,,,,
-*,,766,2,P.S./I.S. @ WESTERN RAILYARDS,DSF0000424314,capacity projects,,,,Sep-24,2025,Apr-19,Jul-21,106.29,8.45,94.91,2.93,sca_cp_cap_schools_cur,,,,
-Yes,No,612,30,P.S. @ PARCEL F,DSF0000843984,capacity projects,2ND STREET BETWEEN 56TH AND 57TH AVENUE,,,Jun-21,2021,Apr-16,Jan-18,93.13,0,85.14,,sca_cp_cap_schools_prev,,,,
-*,,572,7,P.S. @ ST. ANN'S AVENUE,DSF0000889308,capacity projects,,,,Mar-23,2023,Jan-19,Apr-20,85.35,6.66,78.69,0,sca_cp_cap_schools_cur,,,,
-Yes,Yes,Replacement,78X,SOUTHERN BOULEVARD COMMUNITY CAMPUS,DSF0000800056,replacement projects,,,,Jul-16,2017,Sep-14,Jul-15,11.42,0.00,11.42,0.00,sca_cp_rep_schools,,,,
-Yes,Yes,72,13,THE DOCK STREET EDUCATIONAL COMPLEX,DSF0000821675,pre-k capacity projects,19 DOCK STREET,,,16-Jul,2017,14-Dec,15-May,5.97,0,5.97,0,sca_cp_prek_schools_prev,,,,
-Yes,No,333,13,THE DOCK STREET EDUCATIONAL COMPLEX,DSF0000687093,capacity projects,19 DOCK STREET,,,Jul-16,2017,May-12,May-15,41.47,3.57,37.9,,sca_cp_cap_schools_prev,,,,
-Yes,No,692,3,THE RIVERSIDE SCHOOL,DSF0000730952,capacity projects,300 WEST 61ST STREET,,,Sep-17,2018,Apr-11,Jun-16,110.39,3.61,106.78,,sca_cp_cap_schools_prev,,,,
-Yes,Yes,Replacement,78M,WEST END SECONDARY SCHOOL,DSF0000800279,replacement projects,,,,Feb-19,2019,Jun-14,Jan-17,19.35,0.00,19.35,0.00,sca_cp_rep_schools,,,,
-*,,3079,78Q,H.S. @ 51-30 NORTHERN BOULEVARD,DSF0000866092,capacity projects,51-30 NORTHERN BOULEVARD,40.753167,-73.908092,Jun-24,2024,Jun-18,Feb-20,352.79,28.18,324.61,0,sca_cp_cap_schools_cur,,,,0101000020E61000009770E82D1E7A52C095B6B8C667604440
-*,,640,13,I.S. 653,DSF0000798239,capacity projects,491 DEAN STREET,40.681392,-73.973655,Aug-22,2023,May-15,Jun-20,126.15,100.74,25.41,0,sca_cp_cap_schools_cur,,,,0101000020E61000008FA50F5D507E52C0C6E061DA37574440
-Yes,No,180,15,PRE-K CENTER @ 168 8TH STREET,DSF0000821899,pre-k capacity projects,168 8TH STREET,40.671728,-73.989838,22-Apr,2022,17-Dec,19-Jul,35.84,5,30.85,0,sca_cp_prek_schools_cur,,,,0101000020E6100000A3957B81597F52C05CE7DF2EFB554440
-Yes,,Replacement,75Q,P.S. 256 ANNEX,DSF0000843866,replacement projects,,,,Sep-20,2021,Apr-16,Jan-18,23.06,0.00,21.44,1.61,sca_cp_rep_schools,,,,0101000020E6100000058A58C4B07652C08978EBFCDB494440
-Yes,No,748,31,P.S. @ 357 TARGEE STREET,DSF0000843832,capacity projects,357 TARGEE STREET,,,Jun-22,2022,May-17,Dec-18,113.43,0,102.04,,sca_cp_cap_schools_prev,,,,0101000020E610000092CCEA1D6E8552C06ADC9BDF304F4440
-Yes,No,476,30,P.S. 398,DSF0000798210,capacity projects,69-01 34TH AVENUE,,,Jun-19,2019,Jun-15,Mar-17,94.31,0,94.31,,sca_cp_cap_schools_prev,,,,0101000020E61000000744882B677952C006BCCCB051604440
-Yes,No,332,15,P.S. @ 4302 4TH AVENUE,DSF0000798182,capacity projects,4302 4TH AVENUE,,,Jun-22,2022,Aug-16,Dec-18,92.92,0,85.15,,sca_cp_cap_schools_prev,,,,0101000020E6100000882B67EF8C8052C070B6B9313D534440
-Yes,No,976,20,P.S. 746,DSF0000798186,capacity projects,256 59TH STREET,,,Mar-20,2020,Apr-15,Jun-17,128.94,0.1,118.17,,sca_cp_cap_schools_prev,,,,0101000020E6100000CD76853E588152C044A7E7DD58524440
 No,Yes,60,31,3K CENTER @ AMBOY ROAD,DSF0000911939,3k capacity projects,,,,2019-09-20T00:00:00.000,2020,2019-09-18T00:00:00.000,2019-01-20T00:00:00.000,4.5,0.36,4.14,0,sca_cp_3k_schools,,,,
 No,Yes,105,31,3K CENTER @ ARTHUR KILL ROAD,DSF0000911938,3k capacity projects,,,,2019-09-20T00:00:00.000,2020,2019-09-18T00:00:00.000,2019-01-20T00:00:00.000,7,0.55,6.46,0,sca_cp_3k_schools,,,,
 No,Yes,120,31,3K CENTER @ BAY STREET,DSF0000891030,3k capacity projects,,,,2019-05-20T00:00:00.000,2019,2019-09-18T00:00:00.000,2019-07-19T00:00:00.000,12,0.93,11.07,0,sca_cp_3k_schools,,,,
@@ -210,28 +10,228 @@ No,Yes,105,12,3K CENTER @ WEST FARMS ROAD,DSF0000891031,3k capacity projects,,,,
 Yes,No,548,78Q,CARDOZO HIGH SCHOOL ANNEX,DSF0000888760,capacity projects,,,,Jun-22,2022,Apr-18,Jul-19,71.79,0,5.49,,sca_cp_cap_schools_prev,,,,
 Yes,No,345,78R,CURTIS HIGH SCHOOL ANNEX,DSF0000798232,capacity projects,,,,Jul-17,2018,Apr-14,Sep-15,101.18,0.14,101.04,,sca_cp_cap_schools_prev,,,,
 Yes,,602,78K,EAST NY FAMILY ACADEMY,DSF0000844038,class size reduction projects,,,,Jun-21,2021,Apr-17,Jun-18,111.29,0.00,101.51,9.78,sca_cp_class_size_reduction,,,,
-Yes,Yes,288,15,EDUCATIONAL CAMPUS @ 500 19TH STREET,DSF0000821918,pre-k capacity projects,500 19TH STREET,,,15-Aug,2016,15-Feb,15-Mar,5.27,0,5.27,0,sca_cp_prek_schools_prev,,,,
-Yes,Yes,378,15,EDUCATIONAL CAMPUS @ 500 19TH STREET,DSF0000798184,capacity projects,500 19TH STREET,,,Sep-17,2018,Mar-16,Jul-17,23.54,0,23.54,,sca_cp_cap_schools_prev,,,,
-Yes,Yes,420,29,3K CENTER @ 92-80 220 STREET,DSF0000890627,3k capacity projects,92-80 220 STREET,40.723336,-73.736561,2019-08-20T00:00:00.000,2020,2019-06-18T00:00:00.000,2019-09-19T00:00:00.000,9.92,0.04,9.88,0,sca_cp_3k_schools,,,,0101000020E610000094A0BFD0236F52C07E022846965C4440
-Yes,No,969,78Q,ACADEMY OF AMERICAN STUDIES,DSF0000798215,capacity projects,28-01 41ST AVENUE,,,Jun-21,2021,Jul-16,Mar-18,121.02,0.02,110.66,,sca_cp_cap_schools_prev,,,,0101000020E61000001E335019FF7B52C0A2D3F36E2C604440
-Yes,,Replacement,75R,D75 REPLACEMENT @ 15 FAIRFIELD STREET,DSF0000821871,replacement projects,,,,Sep-20,2021,Sep-16,Feb-18,58.15,0.00,53.78,4.38,sca_cp_rep_schools,,,,0101000020E61000003F1D8F19A88952C06AF6402B30484440
+Yes,No,728,24,I.S. 125,DSF0000798199,capacity projects,,,,Sep-17,2018,Feb-14,Dec-15,117.66,0.3,117.36,,sca_cp_cap_schools_prev,,,,
+*,,646,15,I.S. @ 21-31 & 35 DELEVAN STREET,DSF0000843826,capacity projects,21-31 & 35 DELEVAN STREET,,,Jun-24,2024,Sep-19,Feb-21,99.57,1.44,98.13,0,sca_cp_cap_schools_cur,,,,
+*,,536,30,I.S. @ 44-59 45 AVENUE,DSF0000843827,capacity projects,44-59 45 AVENUE,,,Jun-24,2024,Mar-20,Jun-21,92.38,0.11,92.26,0,sca_cp_cap_schools_cur,,,,
+Yes,Yes,507,78Q,I.S./H.S. 336,DSF0000798226,capacity projects,,,,Sep-18,2019,Oct-13,Jul-16,27.77,0.45,27.32,,sca_cp_cap_schools_prev,,,,
+No,Yes,306,24,PRE-K CENTER @ 111TH STREET,DSF0000844699,pre-k capacity projects,,,,22-Mar,2022,16-Aug,19-Aug,41.49,3.55,37.94,0,sca_cp_prek_schools_cur,,,,
+No,Yes,306,24,PRE-K CENTER @ 111TH STREET,DSF0000844699,pre-k capacity projects,,,,20-Sep,2021,16-Aug,18-May,41.45,0,37.88,3.57,sca_cp_prek_schools_prev,,,,
+Yes,Yes,108,31,PRE-K CENTER @ 120 STUYVESANT PLACE,DSF0000800267,pre-k capacity projects,,,,15-Aug,2016,14-Jul,15-Jan,19.26,0,19.26,0,sca_cp_prek_schools_prev,,,,
+Yes,Yes,126,20,PRE-K CENTER @ 1258 65TH STREET,DSF0000800123,pre-k capacity projects,,,,15-Jul,2016,14-Jun,14-Dec,12.31,0,12.31,0,sca_cp_prek_schools_prev,,,,
+Yes,Yes,90,2,PRE-K CENTER @ 1683 3RD AVENUE,DSF0000867184,pre-k capacity projects,,,,18-Sep,2019,17-Aug,18-Mar,15,0,15,0,sca_cp_prek_schools_prev,,,,
+Yes,Yes,108,2,PRE-K CENTER @ 2-26 WASHINGTON ST,DSF0000800052,pre-k capacity projects,,,,15-Sep,2016,14-Jun,15-Jan,13.34,0.01,13.33,0,sca_cp_prek_schools_prev,,,,
+Yes,Yes,144,2,PRE-K CENTER @ 252 EAST 57 STREET,DSF0000866268,pre-k capacity projects,,,,18-Sep,2019,17-May,18-Mar,19.01,0,19.01,0,sca_cp_prek_schools_prev,,,,
+Yes,Yes,54,15,PRE-K CENTER @ 305-307 THIRD AVENUE,DSF0000821832,pre-k capacity projects,,,,16-Aug,2017,15-Mar,15-Nov,10,0,10,0,sca_cp_prek_schools_prev,,,,
+Yes,Yes,54,24,PRE-K CENTER @ 54-25 101ST STREET,DSF0000844691,pre-k capacity projects,,,,18-Sep,2019,16-Sep,17-Jul,3.32,0,3.32,0,sca_cp_prek_schools_prev,,,,
+Yes,Yes,90,20,PRE-K CENTER @ 6309 4TH AVENUE,DSF0000866170,pre-k capacity projects,,,,24-Sep,2025,16-Nov,23-Mar,7.52,0.66,6.54,0.32,sca_cp_prek_schools_cur,,,,
+Yes,Yes,72,28,PRE-K CENTER @ 83-30 KEW GARDENS ROAD,DSF0000801086,pre-k capacity projects,,,,15-Aug,2016,14-Sep,15-Mar,7.36,0,7.36,0,sca_cp_prek_schools_prev,,,,
+No,No,18,24,PRE-K CENTER @ CORONA AVENUE,DSF0000866312,pre-k capacity projects,,,,18-Sep,2019,17-Jun,18-Mar,4.94,0,4.94,0,sca_cp_prek_schools_prev,,,,
+No,Yes,72,2,PRE-K CENTER @ WEST 57TH STREET,DSF0000865846,pre-k capacity projects,,,,19-Sep,2020,16-Dec,18-May,7.99,0,7.62,0.37,sca_cp_prek_schools_prev,,,,
+,,824,11,PROJECT #1,DSF0000911831,capacity projects,,,,Jun-25,2025,Jun-20,Dec-21,127.55,0,118.55,9,sca_cp_cap_schools_cur,,,,
+,,1202,78Q,PROJECT #1,DSF0000911856,capacity projects,,,,Mar-26,2026,Nov-20,Mar-22,183.8,0,166.9,16.9,sca_cp_cap_schools_cur,,,,
+,,476,9,PROJECT #1,DSF0000911815,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
+,L,824,28,PROJECT #1,DSF0000888931,capacity projects,,,,Aug-25,2026,Jan-21,Apr-22,42.15,0,38.25,3.9,sca_cp_cap_schools_cur,,,,
+,,824,20,PROJECT #1,DSF0000798187,capacity projects,,,,Jun-24,2024,Jan-20,Apr-21,137.71,10.3,127.41,0,sca_cp_cap_schools_cur,,,,
+,,824,24,PROJECT #1,DSF0000843831,capacity projects,,,,Sep-24,2025,Mar-20,Jun-21,127.56,0.04,123.93,3.6,sca_cp_cap_schools_cur,,,,
+,,476,27,PROJECT #1,DSF0000911857,capacity projects,,,,Mar-25,2025,Jan-21,Apr-22,74.11,0,68.91,5.2,sca_cp_cap_schools_cur,,,,
+,L,476,12,PROJECT #1,DSF0000798238,capacity projects,,,,Mar-24,2024,Jun-20,Sep-21,20.85,0.16,20.69,0,sca_cp_cap_schools_cur,,,,
+,,572,8,PROJECT #1,DSF0000911814,capacity projects,,,,Mar-25,2025,Mar-21,Jun-22,95.19,0,88.49,6.7,sca_cp_cap_schools_cur,,,,
+,,476,21,PROJECT #1,DSF0000911840,capacity projects,,,,Mar-27,2027,Mar-23,Jun-24,78.33,0,69.8,8.53,sca_cp_cap_schools_cur,,,,
+,,824,10,PROJECT #1,DSF0000843830,capacity projects,,,,Jun-27,2027,Jun-22,Dec-23,134.58,0.01,119.84,14.72,sca_cp_cap_schools_cur,,,,
+,,640,15,PROJECT #1,DSF0000866091,capacity projects,,,,Jun-24,2024,Mar-20,Jun-21,99.43,0,99.43,0,sca_cp_cap_schools_cur,,,,
+,,640,26,PROJECT #1,DSF0000911855,capacity projects,,,,Mar-27,2027,Sep-22,Dec-23,106.45,0,94.83,11.63,sca_cp_cap_schools_cur,,,,
+,,824,25,PROJECT #1,DSF0000911866,capacity projects,,,,Mar-28,2028,Mar-23,Jun-24,134.58,0,119.85,14.73,sca_cp_cap_schools_cur,,,,
+,L,476,2,PROJECT #1,DSF0000798172,capacity projects,,,,Mar-24,2024,Mar-20,Jun-21,21.84,1.02,20.83,0,sca_cp_cap_schools_cur,,,,
+,,476,19,PROJECT #1,DSF0000911836,capacity projects,,,,Mar-27,2027,Mar-23,Jun-24,78.33,0,69.8,8.53,sca_cp_cap_schools_cur,,,,
+,,476,13,PROJECT #1,DSF0000843824,capacity projects,,,,Mar-25,2025,Mar-21,Jun-22,71.31,0.14,66.19,4.97,sca_cp_cap_schools_cur,,,,
+,,476,31,PROJECT #1,DSF0000911847,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
+,,572,7,PROJECT #1,DSF0000798173,capacity projects,,,,Jun-24,2024,Jun-20,Oct-21,92.38,0.11,92.26,0,sca_cp_cap_schools_cur,,,,
+,L,612,14,PROJECT #1,DSF0000687094,capacity projects,,,,Jun-27,2027,Jun-23,Sep-24,28.01,0.11,2.11,25.78,sca_cp_cap_schools_cur,,,,
+,,476,22,PROJECT #1,DSF0000911867,capacity projects,,,,Mar-27,2027,May-23,Jun-24,78.33,0,69.8,8.53,sca_cp_cap_schools_cur,,,,
+,,476,30,PROJECT #1,DSF0000911869,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
+No,Yes,506,25,PROJECT #1,DSF0000888955,capacity projects,,,,Jun-22,2022,Jun-18,Sep-19,31.49,0,2.39,,sca_cp_cap_schools_prev,,,,
+,,572,29,PROJECT #1,DSF0000911863,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,96.59,0,87.75,8.84,sca_cp_cap_schools_cur,,,,
+,L,824,26,PROJECT #2,DSF0000911853,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,129.26,0,117.3,11.96,sca_cp_cap_schools_cur,,,,
+,,640,22,PROJECT #2,DSF0000911846,capacity projects,,,,Jun-25,2025,Mar-21,Jun-22,99.43,0,92.43,7,sca_cp_cap_schools_cur,,,,
+,,824,25,PROJECT #2,DSF0000911834,capacity projects,,,,Mar-26,2026,Mar-21,Jun-22,127.55,0,115.85,11.7,sca_cp_cap_schools_cur,,,,
+,,572,9,PROJECT #2,DSF0000889664,capacity projects,,,,Apr-24,2024,Jul-19,Apr-21,90.97,0.02,90.95,0,sca_cp_cap_schools_cur,,,,
+,,640,2,PROJECT #2,DSF0000911799,capacity projects,,,,Mar-25,2025,Sep-20,Dec-21,92.85,0,86.32,6.53,sca_cp_cap_schools_cur,,,,
+,,640,24,PROJECT #2,DSF0000889651,capacity projects,,,,Apr-23,2023,Jul-19,Sep-20,96.62,0.02,96.6,0,sca_cp_cap_schools_cur,,,,
+,L,1202,78Q,PROJECT #2,DSF0000911858,capacity projects,,,,Jun-26,2026,Nov-21,Mar-23,186.87,0,169.58,17.29,sca_cp_cap_schools_cur,,,,
+,L,572,10,PROJECT #2,DSF0000798174,capacity projects,,,,Sep-25,2026,Jun-21,Sep-22,20.92,0.14,19,1.77,sca_cp_cap_schools_cur,,,,
+,L,640,27,PROJECT #2,DSF0000798206,capacity projects,,,,Sep-24,2025,Jun-20,Sep-21,28.1,0.12,27.19,0.79,sca_cp_cap_schools_cur,,,,
+,,379,14,PROJECT #2,DSF0000798240,capacity projects,,,,Sep-24,2025,Nov-20,Feb-22,57.25,0,55.65,1.6,sca_cp_cap_schools_cur,,,,
+,L,476,31,PROJECT #2,DSF0000911850,capacity projects,,,,Mar-25,2025,Mar-21,Jun-22,21.08,0,19.58,1.5,sca_cp_cap_schools_cur,,,,
+,,476,29,PROJECT #2,DSF0000911864,capacity projects,,,,Jun-26,2026,Sep-22,Dec-23,76.92,0,68.55,8.37,sca_cp_cap_schools_cur,,,,
+,,476,21,PROJECT #2,DSF0000911841,capacity projects,,,,Mar-26,2026,Mar-21,Jun-22,71.3,0,64.8,6.5,sca_cp_cap_schools_cur,,,,
+,L,640,30,PROJECT #2,DSF0000798211,capacity projects,,,,Jun-24,2024,Mar-20,Jun-21,28.1,0.03,28.07,0,sca_cp_cap_schools_cur,,,,
+,L,824,20,PROJECT #2,DSF0000798188,capacity projects,,,,Jun-26,2026,Jan-22,Apr-23,49.29,0.21,44.59,4.49,sca_cp_cap_schools_cur,,,,
+,L,824,11,PROJECT #2,DSF0000911832,capacity projects,,,,Jun-26,2026,Jun-21,Dec-22,42.15,0,38.25,3.9,sca_cp_cap_schools_cur,,,,
+,L,640,28,PROJECT #2,DSF0000911860,capacity projects,,,,Mar-27,2027,Sep-22,Dec-23,28.1,0,25,3.1,sca_cp_cap_schools_cur,,,,
+,L,640,15,PROJECT #2,DSF0000890667,capacity projects,,,,Sep-25,2026,Jun-21,Sep-22,29.87,0.01,27.21,2.64,sca_cp_cap_schools_cur,,,,
+,,476,26,PROJECT #3,DSF0000889663,capacity projects,,,,Jun-23,2023,Jul-19,Oct-20,63.28,0.06,63.22,0,sca_cp_cap_schools_cur,,,,
+,,640,27,PROJECT #3,DSF0000889273,capacity projects,,,,Mar-25,2025,Apr-21,Jun-22,99.43,0.09,92.37,6.97,sca_cp_cap_schools_cur,,,,
+,,476,25,PROJECT #3,DSF0000911835,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
+,,476,21,PROJECT #3,DSF0000911842,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
+,,640,28,PROJECT #3,DSF0000911862,capacity projects,,,,Jun-25,2025,Mar-21,Jun-22,99.43,0,92.43,7,sca_cp_cap_schools_cur,,,,
+No,No,656,13,PROJECT #3,DSF0000843661,capacity projects,,,,Jun-22,2022,Jun-18,Sep-19,50.63,0,4.83,,sca_cp_cap_schools_prev,,,,
+,,1000,30,PROJECT #3,DSF0000798212,capacity projects,,,,Jun-28,2028,Jun-23,Sep-24,155.7,0.07,13.24,142.39,sca_cp_cap_schools_cur,,,,
+,,640,10,PROJECT #3,DSF0000867118,capacity projects,,,,Jun-24,2024,Mar-20,Jun-21,99.43,0.01,99.43,0,sca_cp_cap_schools_cur,,,,
+,,476,31,PROJECT #3,DSF0000911848,capacity projects,,,,Mar-27,2027,Mar-23,Jun-24,76.92,0,68.55,8.37,sca_cp_cap_schools_cur,,,,
+,,476,11,PROJECT #3,DSF0000889274,capacity projects,,,,Jun-23,2023,Jun-19,Sep-20,63.28,5.06,58.22,0,sca_cp_cap_schools_cur,,,,
+,,640,20,PROJECT #3,DSF0000843829,capacity projects,,,,Sep-25,2026,Jun-21,Sep-22,102.25,0.12,92.83,9.3,sca_cp_cap_schools_cur,,,,
+,,1479,78Q,PROJECT #3,DSF0000911861,capacity projects,,,,Jun-28,2028,Nov-22,Mar-24,197.85,0,176.15,21.7,sca_cp_cap_schools_cur,,,,
+,L,640,20,PROJECT #4,DSF0000798191,capacity projects,,,,Jun-24,2024,Mar-20,Jun-21,28.11,0.11,27.99,0,sca_cp_cap_schools_cur,,,,
+,,1202,78Q,PROJECT #4,DSF0000889275,capacity projects,,,,Sep-25,2026,May-20,Jan-22,179.08,38.12,128.64,12.32,sca_cp_cap_schools_cur,,,,
+,L,476,21,PROJECT #4,DSF0000911844,capacity projects,,,,Mar-26,2026,Mar-23,Jun-24,29.51,0,26.25,3.26,sca_cp_cap_schools_cur,,,,
+,,476,30,PROJECT #4,DSF0000889670,capacity projects,,,,Apr-25,2025,Jun-21,Sep-22,74.11,0,67.61,6.5,sca_cp_cap_schools_cur,,,,
+,,824,10,PROJECT #4,DSF0000911830,capacity projects,,,,Jun-27,2027,Jun-22,Dec-23,134.58,0,119.85,14.73,sca_cp_cap_schools_cur,,,,
+,,572,28,PROJECT #4,DSF0000911859,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,96.59,0,87.75,8.84,sca_cp_cap_schools_cur,,,,
+,,476,31,PROJECT #4,DSF0000889060,capacity projects,,,,Mar-24,2024,Apr-20,Jul-21,71.71,0.07,71.63,0,sca_cp_cap_schools_cur,,,,
+,,476,25,PROJECT #4,DSF0000911839,capacity projects,,,,Sep-26,2027,Sep-22,Dec-23,75.52,0,67.3,8.22,sca_cp_cap_schools_cur,,,,
+,,476,31,PROJECT #5,DSF0000911852,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,74.11,0,67.35,6.76,sca_cp_cap_schools_cur,,,,
+,,640,21,PROJECT #5,DSF0000911868,capacity projects,,,,Jun-27,2027,Mar-23,Jun-24,106.45,0,94.83,11.63,sca_cp_cap_schools_cur,,,,
+,L,640,25,PROJECT #5,DSF0000911843,capacity projects,,,,Jun-25,2025,Mar-21,Jun-22,28.1,0,26.1,2,sca_cp_cap_schools_cur,,,,
+,,476,20,PROJECT #5,DSF0000798190,capacity projects,,,,Jun-25,2025,Jun-21,Sep-22,74.11,0.02,67.6,6.49,sca_cp_cap_schools_cur,,,,
+No,No,420,15,PROJECT #6,DSF0000866306,capacity projects,,,,Jun-22,2022,Jun-18,Sep-19,60.99,0,4.59,,sca_cp_cap_schools_prev,,,,
+,L,824,20,PROJECT #6,DSF0000845622,capacity projects,,,,Jun-25,2025,Jan-21,Apr-22,49.18,0.02,45.65,3.5,sca_cp_cap_schools_cur,,,,
+,,692,31,PROJECT #6,DSF0000911854,capacity projects,,,,Jun-27,2027,Sep-22,Dec-23,106.45,0,94.83,11.63,sca_cp_cap_schools_cur,,,,
+,,640,25,PROJECT #6,DSF0000911845,capacity projects,,,,Apr-26,2026,Jan-22,Apr-23,100.83,0,91.6,9.23,sca_cp_cap_schools_cur,,,,
+,,572,25,PROJECT #7,DSF0000911849,capacity projects,,,,Sep-26,2027,Sep-22,Dec-23,92.38,0,82.3,10.08,sca_cp_cap_schools_cur,,,,
+,L,476,20,PROJECT #7,DSF0000798567,capacity projects,,,,Mar-26,2026,Mar-22,Jun-23,20.97,0.29,18.99,1.69,sca_cp_cap_schools_cur,,,,
+,,476,31,PROJECT #7,DSF0000798213,capacity projects,,,,Jun-25,2025,Apr-21,Jul-22,50.25,0.17,45.94,4.14,sca_cp_cap_schools_cur,,,,
+,,824,20,PROJECT #8,DSF0000911837,capacity projects,,,,Jun-25,2025,Jun-20,Dec-21,130.36,0,121.16,9.2,sca_cp_cap_schools_cur,,,,
+,L,824,20,PROJECT #9,DSF0000911838,capacity projects,,,,Jun-26,2026,Jun-21,Dec-22,49.18,0,44.63,4.55,sca_cp_cap_schools_cur,,,,
+Yes,No,456,21,P.S. 101,DSF0000798192,capacity projects,,,,Jun-19,2019,May-15,Dec-16,90.96,0,90.96,,sca_cp_cap_schools_prev,,,,
+Yes,No,364,20,P.S. 127,DSF0000798189,capacity projects,,,,May-21,2021,Feb-17,May-18,92.06,0,84.04,,sca_cp_cap_schools_prev,,,,
+Yes,No,440,24,P.S. 128,DSF0000821576,capacity projects,,,,Jun-20,2020,Mar-16,Jun-17,45.11,0,41.41,,sca_cp_cap_schools_prev,,,,
+Yes,No,548,25,P.S. 129,DSF0000843833,capacity projects,,,,Sep-20,2021,Sep-16,May-18,67.15,0,61.44,,sca_cp_cap_schools_prev,,,,
+*,L,132,31,P.S. 13 ANNEX,DSF0000889041,capacity projects,457 TOMKINS AVENUE,,,Sep-20,2021,Sep-18,Jul-19,14.05,1.13,12.93,0,sca_cp_cap_schools_cur,,,,
+Yes,No,344,8,P.S. 14,DSF0000798233,capacity projects,,,,Sep-18,2019,Feb-15,Jul-16,70.99,0.18,70.81,,sca_cp_cap_schools_prev,,,,
+Yes,No,980,24,P.S. 143,DSF0000798195,capacity projects,,,,Sep-20,2021,Jan-16,Jul-17,125.07,0.07,114.28,,sca_cp_cap_schools_prev,,,,
+Yes,No,590,28,P.S. 144,DSF0000798209,capacity projects,,,,Sep-19,2020,Dec-15,Jul-17,72.41,0,69.06,,sca_cp_cap_schools_prev,,,,
+Yes,No,640,24,P.S. 19,DSF0000798568,capacity projects,,,,Sep-18,2019,Mar-15,Jul-16,113.87,0.01,113.85,,sca_cp_cap_schools_prev,,,,
+Yes,No,250,28,P.S. 196,DSF0000843834,capacity projects,,,,Jun-22,2022,Apr-18,Jul-19,37.5,0,2.88,,sca_cp_cap_schools_prev,,,,
+Yes,,Replacement,24,P.S. 19 MINISCHOOL,DSF0000798568,replacement projects,,,,Sep-18,2019,Mar-15,Jul-16,14.22,0.00,14.22,0.00,sca_cp_rep_schools,,,,
+Yes,,Replacement,30,P.S. 2,DSF0000888778,replacement projects,,,,Sep-21,2022,Dec-17,Mar-19,45.00,0.00,40.20,4.80,sca_cp_rep_schools,,,,
+Yes,No,392,28,P.S. 206,DSF0000888762,capacity projects,,,,Jun-22,2022,Mar-18,Jun-19,43.15,0,38.55,,sca_cp_cap_schools_prev,,,,
+Yes,,Replacement,25,P.S. 24,DSF0000798203,replacement projects,,,,Sep-18,2019,Dec-14,Jul-16,9.26,0.00,9.25,0.00,sca_cp_rep_schools,,,,
+Yes,No,600,25,P.S. 24,DSF0000798203,capacity projects,,,,Sep-18,2019,Dec-14,Jul-16,113.37,0.05,113.33,,sca_cp_cap_schools_prev,,,,
+Yes,No,416,22,P.S. 254,DSF0000798194,capacity projects,,,,Jun-21,2021,Jul-17,Oct-18,64.94,0,58.08,,sca_cp_cap_schools_prev,,,,
 Yes,No,484,28,P.S. 303,DSF0000798208,capacity projects,,,,Sep-19,2020,Feb-15,Jan-17,97.45,0,93.31,,sca_cp_cap_schools_prev,,,,
 Yes,Yes,Replacement,10,P.S. 315,DSF0000775874,replacement projects,,,,May-17,2017,Sep-13,Mar-15,20.95,0.49,20.45,0.00,sca_cp_rep_schools,,,,
 Yes,No,436,15,P.S. 32,DSF0000798185,capacity projects,,,,Jul-20,2021,Mar-15,Jun-17,102.81,0.09,94.19,,sca_cp_cap_schools_prev,,,,
-Yes,No,468,26,P.S. 332,DSF0000798205,capacity projects,210-21 48TH AVENUE,,,Sep-17,2018,Feb-14,Aug-15,100.44,6.85,93.59,,sca_cp_cap_schools_prev,,,,
-Yes,No,516,27,P.S. 335,DSF0000417420,capacity projects,150-15 RALEIGH STREET,,,Sep-17,2018,Sep-13,Jul-15,108.73,6.25,102.48,,sca_cp_cap_schools_prev,,,,
-Yes,No,388,10,P.S. 33 ANNEX,DSF0000798177,capacity projects,2424 JEROME AVENUE,,,Sep-21,2022,Aug-17,Oct-18,72.79,0.02,65.12,,sca_cp_cap_schools_prev,,,,0101000020E6100000D235936FB67952C05F07CE19516E4440
-*,,458,12,P.S. @ 1570 BOONE AVENUE,DSF0000798179,capacity projects,1570 BOONE AVENUE,40.833224,-73.88497,Sep-22,2023,Dec-17,Jan-20,79.23,6.44,72.79,0,sca_cp_cap_schools_cur,,,,0101000020E61000003BFC3559A37852C0041F8315A76A4440
-*,,410,25,P.S. 169 ADDITION,DSF0000798201,capacity projects,18-25 212 STREET,40.782298,-73.779099,Sep-22,2023,Sep-18,Dec-19,56.25,4.53,51.72,0,sca_cp_cap_schools_cur,,,,0101000020E61000002A560DC2DC7152C0F4DC425722644440
-*,,476,10,P.S. @ 2355 MORRIS AVENUE,DSF0000889039,capacity projects,2355 MORRIS AVENUE,40.859668,-73.900982,Mar-23,2023,Mar-19,Jun-20,64.28,5.08,59.19,0,sca_cp_cap_schools_cur,,,,0101000020E6100000381268B0A97952C078B5DC99096E4440
-*,,440,26,P.S. 46 ADDITION,DSF0000798204,capacity projects,64-45 218 STREET,40.746202,-73.758752,Sep-22,2023,Sep-18,Dec-19,56.25,4.52,51.73,0,sca_cp_cap_schools_cur,,,,0101000020E610000093718C648F7052C0DA1A118C835F4440
-*,L,332,13,P.S. @ ALBEE SQUARE WEST,DSF0000843660,capacity projects,420 ALBEE SQUARE WEST,40.691157,-73.983459,Jun-23,2023,Jul-17,Sep-21,29.86,2.35,27.51,0,sca_cp_cap_schools_cur,,,,0101000020E61000003D7D04FEF07E52C063B323D577584440
-*,,382,15,P.S./H.S. @ SCHERMERHORN STREET,DSF0000888773,capacity projects,362 SCHERMERHORN STREET,40.686499,-73.979649,Jun-23,2023,Mar-18,May-20,2.05,2.05,0,0,sca_cp_cap_schools_cur,,,,0101000020E6100000C823B891B27E52C04CDE0033DF574440
-Yes,No,646,24,I.S. 419,DSF0000798196,capacity projects,111-10 ASTORIA BOULEVARD,,,Sep-21,2022,Sep-16,May-18,124.4,0.14,114.25,,sca_cp_cap_schools_prev,,,,0101000020E61000009C887E6DFD7652C07E1D386744614440
-Yes,,Replacement,75R,I.S./H.S. @ 715 OCEAN TERRACE,DSF0000844161,replacement projects,,,,Sep-21,2022,Nov-17,Dec-18,100.00,0.00,89.51,10.49,sca_cp_rep_schools,,,,0101000020E610000008E92972888652C0AF0793E2E34D4440
-Yes,,400,11,P.S. 19 ADDITION,DSF0000821591,class size reduction projects,,,,Jul-20,2021,May-16,Jun-17,70.61,0.00,64.76,5.86,sca_cp_class_size_reduction,,,,0101000020E6100000EC51B81E857752C0693A3B191C734440
-Yes,No,328,15,P.S. @ 4525 8TH AVENUE,DSF0000798183,capacity projects,4525 8TH AVENUE,,,Sep-21,2022,Mar-17,Nov-18,83.74,0.05,76.34,,sca_cp_cap_schools_prev,,,,0101000020E610000016C3D501108052C061A92EE065524440
-Yes,No,404,15,P.S. @ 836-841 5TH AVENUE,DSF0000843828,capacity projects,836-841 5TH AVENUE,,,Apr-21,2021,Aug-17,Nov-18,89.85,0,81.89,,sca_cp_cap_schools_prev,,,,0101000020E6100000569BFF571D8052C07F6DFDF49F534440
-Yes,No,"1,000",19,P.S./I.S. @ 3269 ATLANTIC AVENUE,DSF0000822081,capacity projects,3269 ATLANTIC AVENUE,,,Sep-20,2021,Jul-16,Dec-17,127.56,0,116.52,,sca_cp_cap_schools_prev,,,,0101000020E6100000DBC1887D027852C0F06DFAB31F574440
-Yes,No,572,30,P.S. @ PARCEL C,DSF0000843659,capacity projects,1-50 54TH AVENUE,,,Jun-21,2021,Dec-16,Apr-18,102.06,0,93.09,,sca_cp_cap_schools_prev,,,,0101000020E61000000D6C9560717D52C07AC37DE4D65E4440
-Yes,Yes,245,5,TEACHER'S COLLEGE COMMUNITY SCHOOL ANNEX,DSF0000866751,capacity projects,223-233 WEST 132 STREET,,,Sep-18,2019,Aug-17,May-18,20,0,20,,sca_cp_cap_schools_prev,,,,0101000020E6100000CA4E3FA88B7C52C0978DCEF929684440
+Yes,No,296,10,P.S. 340 GYM ANNEX,DSF0000798176,capacity projects,,,,Sep-21,2022,Sep-17,Dec-18,65.92,0.02,58.95,,sca_cp_cap_schools_prev,,,,
+Yes,No,500,10,P.S. 46,DSF0000798175,capacity projects,,,,Jun-19,2019,Feb-15,Dec-16,120,0.07,119.93,,sca_cp_cap_schools_prev,,,,
+*,,450,2,P.S. 464,DSF0000798170,capacity projects,,,,Jun-22,2022,May-15,Mar-20,166.13,102.82,63.31,0,sca_cp_cap_schools_cur,,,,
+Yes,No,333,24,P.S. 49,DSF0000798200,capacity projects,,,,Sep-17,2018,Mar-14,Dec-15,44.64,0.13,44.52,,sca_cp_cap_schools_prev,,,,
+Yes,No,124,27,P.S. 66,DSF0000801039,capacity projects,,,,Sep-19,2020,Aug-15,Jun-17,42.14,0,40.42,,sca_cp_cap_schools_prev,,,,
+Yes,No,468,21,P.S. 97,DSF0000798193,capacity projects,,,,Jun-21,2021,Mar-17,Jul-18,68.12,0,61,,sca_cp_cap_schools_prev,,,,
+Yes,No,548,11,P.S. 97,DSF0000798178,capacity projects,,,,Apr-21,2021,Feb-17,Apr-18,93.29,0.11,85.03,,sca_cp_cap_schools_prev,,,,
+*,,572,9,P.S. @ EDWARD L GRANT HIGHWAY,DSF0000889040,capacity projects,,,,Jun-23,2023,Mar-19,Jun-20,87.8,22.07,65.73,0,sca_cp_cap_schools_cur,,,,
+*,,462,2,P.S. @ HUDSON SQUARE,DSF0000798236,capacity projects,2 HUDSON SQUARE,,,Jun-23,2023,Apr-18,Jun-21,64.28,5.01,59.27,0,sca_cp_cap_schools_cur,,,,
+*,,766,2,P.S./I.S. @ WESTERN RAILYARDS,DSF0000424314,capacity projects,,,,Sep-24,2025,Apr-19,Jul-21,106.29,8.45,94.91,2.93,sca_cp_cap_schools_cur,,,,
+Yes,No,612,30,P.S. @ PARCEL F,DSF0000843984,capacity projects,2ND STREET BETWEEN 56TH AVENUE AND 57TH AVENUE,,,Jun-21,2021,Apr-16,Jan-18,93.13,0,85.14,,sca_cp_cap_schools_prev,,,,
+*,,572,7,P.S. @ ST. ANN'S AVENUE,DSF0000889308,capacity projects,,,,Mar-23,2023,Jan-19,Apr-20,85.35,6.66,78.69,0,sca_cp_cap_schools_cur,,,,
+Yes,Yes,Replacement,78X,SOUTHERN BOULEVARD COMMUNITY CAMPUS,DSF0000800056,replacement projects,,,,Jul-16,2017,Sep-14,Jul-15,11.42,0.00,11.42,0.00,sca_cp_rep_schools,,,,
+Yes,Yes,72,13,THE DOCK STREET EDUCATIONAL COMPLEX,DSF0000821675,pre-k capacity projects,,,,16-Jul,2017,14-Dec,15-May,5.97,0,5.97,0,sca_cp_prek_schools_prev,,,,
+Yes,Yes,Replacement,78M,WEST END SECONDARY SCHOOL,DSF0000800279,replacement projects,,,,Feb-19,2019,Jun-14,Jan-17,19.35,0.00,19.35,0.00,sca_cp_rep_schools,,,,
+Yes,Yes,420,29,3K CENTER @ 92-80 220 STREET,DSF0000890627,3k capacity projects,92-80 220 STREET,40.723336,-73.736561,2019-08-20T00:00:00.000,2020,2019-06-18T00:00:00.000,2019-09-19T00:00:00.000,9.92,0.04,9.88,0,sca_cp_3k_schools,413,Queens,29,0101000020E610000094A0BFD0236F52C07E022846965C4440
+Yes,No,969,78Q,ACADEMY OF AMERICAN STUDIES,DSF0000798215,capacity projects,28-01 41ST AVENUE,40.751356,-73.937445,Jun-21,2021,Jul-16,Mar-18,121.02,0.02,110.66,,sca_cp_cap_schools_prev,401,Queens,30,0101000020E61000001E335019FF7B52C0A2D3F36E2C604440
+Yes,Yes,378,15,EDUCATIONAL CAMPUS @ 500 19TH STREET,DSF0000798184,capacity projects,500 19TH STREET,40.656944,-73.983115,Sep-17,2018,Mar-16,Jul-17,23.54,0,23.54,,sca_cp_cap_schools_prev,307,Brooklyn,15,0101000020E6100000404D2D5BEB7E52C0D7A6B1BD16544440
+Yes,Yes,288,15,EDUCATIONAL CAMPUS @ 500 19TH STREET,DSF0000821918,pre-k capacity projects,500 19TH STREET,40.656944,-73.983115,15-Aug,2016,15-Feb,15-Mar,5.27,0,5.27,0,sca_cp_prek_schools_prev,307,Brooklyn,15,0101000020E6100000404D2D5BEB7E52C0D7A6B1BD16544440
+Yes,Yes,211,24,P.S. 143 ANNEX,DSF0000798197,capacity projects,98-07 38TH AVENUE,40.750246,-73.867825,Sep-18,2019,Dec-15,Aug-17,12.46,0,12.46,,sca_cp_cap_schools_prev,403,Queens,24,0101000020E6100000AD69DE718A7752C037FA980F08604440
+Yes,Yes,224,31,FOREST AVENUE COMMUNITY EDUCATIONAL COMPLEX,DSF0000821684,capacity projects,1625 FOREST AVENUE,40.624773,-74.142525,Sep-16,2017,Jun-14,Dec-14,27.49,0,27.49,,sca_cp_cap_schools_prev,501,Staten Island,31,0101000020E610000032772D211F8952C03F36C98FF84F4440
+Yes,Yes,90,31,FOREST AVENUE COMMUNITY EDUCATIONAL COMPLEX,DSF0000800050,pre-k capacity projects,1625 FOREST AVENUE,40.624773,-74.142525,15-Sep,2016,14-Jun,14-Dec,21.89,0.01,21.88,0,sca_cp_prek_schools_prev,501,Staten Island,31,0101000020E610000032772D211F8952C03F36C98FF84F4440
+Yes,No,555,78Q,FRANCIS LEWIS HS ANNEX,DSF0000821799,capacity projects,58-02 UTOPIA PARKWAY,40.740899,-73.792819,Jul-21,2022,Apr-17,Jul-18,74.92,0,67.29,,sca_cp_cap_schools_prev,411,Queens,26,0101000020E61000006F29E78BBD7252C0CE5147C7D55E4440
+*,,3079,78Q,H.S. @ 51-30 NORTHERN BOULEVARD,DSF0000866092,capacity projects,51-30 NORTHERN BOULEVARD,40.753167,-73.908092,Jun-24,2024,Jun-18,Feb-20,352.79,28.18,324.61,0,sca_cp_cap_schools_cur,402,Queens,30,0101000020E61000009770E82D1E7A52C095B6B8C667604440
+Yes,No,"1,016",2,I.S. 323,DSF0000798235,capacity projects,75 MORTON STREET,40.730999,-74.007191,May-18,2018,Aug-13,Feb-15,181.4,44.1,137.3,,sca_cp_cap_schools_prev,102,Manhattan,2,0101000020E6100000D6743DD1758052C050340F60915D4440
+Yes,No,725,30,I.S. @ 38-04 48TH STREET,DSF0000843825,capacity projects,38-04 48TH STREET,40.749939,-73.915452,Jun-22,2022,Feb-18,Jun-19,74.18,0,67.84,,sca_cp_cap_schools_prev,402,Queens,30,0101000020E6100000B343FCC3967A52C05A7F4B00FE5F4440
+Yes,No,646,24,I.S. 419,DSF0000798196,capacity projects,111-10 ASTORIA BOULEVARD,40.7599,-73.859218,Sep-21,2022,Sep-16,May-18,124.4,0.14,114.25,,sca_cp_cap_schools_prev,403,Queens,24,0101000020E61000009C887E6DFD7652C07E1D386744614440
+*,,640,13,I.S. 653,DSF0000798239,capacity projects,491 DEAN STREET,40.681392,-73.973655,Aug-22,2023,May-15,Jun-20,126.15,100.74,25.41,0,sca_cp_cap_schools_cur,308,Brooklyn,13,0101000020E61000008FA50F5D507E52C0C6E061DA37574440
+Yes,Yes,309,31,I.S. 82,DSF0000798214,capacity projects,104 GORDON STREET,40.624263,-74.082667,Jun-17,2017,Nov-15,Nov-16,15.14,0.01,15.13,,sca_cp_cap_schools_prev,501,Staten Island,31,0101000020E6100000575D876A4A8552C02A8D98D9E74F4440
+Yes,Yes,162,29,PRE-K CENTER @ 100-01 SPRINGFIELD BOULEVARD,DSF0000801025,pre-k capacity projects,100-01 SPRINGFIELD BOULEVARD,40.714844,-73.735602,15-Jul,2016,14-Aug,14-Dec,8.73,0,8.73,0,sca_cp_prek_schools_prev,413,Queens,29,0101000020E6100000D237691A146F52C0F4DE1802805B4440
+Yes,Yes,72,24,PRE-K CENTER @ 104-14 ROOSEVELT AVENUE,DSF0000844698,pre-k capacity projects,104-14 ROOSEVELT AVENUE,40.749999,-73.861311,17-Sep,2018,16-Aug,17-May,12.94,0,12.94,0,sca_cp_prek_schools_prev,404,Queens,24,0101000020E6100000D82B2CB81F7752C030849CF7FF5F4440
+Yes,Yes,90,7,PRE-K CENTER @ 105 WILLIS AVENUE,DSF0000800054,pre-k capacity projects,105 WILLIS AVENUE,40.805788,-73.925307,15-Jul,2016,14-Jun,14-Dec,8.61,0,8.61,0,sca_cp_prek_schools_prev,201,Bronx,7,0101000020E6100000A2F0D93A387B52C02FC1A90F24674440
+Yes,Yes,36,24,PRE-K CENTER @ 106-02 NORTHERN BOULEVARD,DSF0000822098,pre-k capacity projects,106-02 NORTHERN BOULEVARD,40.757755,-73.862659,16-Aug,2017,15-Jun,16-Feb,4.19,0,4.19,0,sca_cp_prek_schools_prev,403,Queens,24,0101000020E6100000672618CE357752C0B4B0A71DFE604440
+Yes,Yes,77,24,PRE-K CENTER @ 107-17 NORTHERN BOULEVARD,DSF0000822099,pre-k capacity projects,107-17 NORTHERN BOULEVARD,40.757811,-73.861666,16-Jul,2017,15-Jun,16-Jan,5.7,0,5.7,0,sca_cp_prek_schools_prev,403,Queens,24,0101000020E6100000CF842689257752C047C66AF3FF604440
+Yes,Yes,54,24,PRE-K CENTER @ 108-18 ROOSEVELT AVENUE,DSF0000845581,pre-k capacity projects,108-18 ROOSEVELT AVENUE,40.750844,-73.858303,18-Sep,2019,16-Oct,18-Mar,5.97,0,5.97,0,sca_cp_prek_schools_prev,404,Queens,24,0101000020E6100000C2C3B46FEE7652C0EC32FCA71B604440
+Yes,Yes,180,21,PRE-K CENTER @ 10 BOUCK COURT,DSF0000821873,pre-k capacity projects,10 BOUCK COURT,40.588759,-73.973728,16-Aug,2017,15-Mar,16-Jan,17.78,0,17.78,0,sca_cp_prek_schools_prev,315,Brooklyn,21,0101000020E6100000C4CC3E8F517E52C0E31C75745C4B4440
+Yes,Yes,144,22,PRE-K CENTER @ 1139 CONEY ISLAND AVENUE,DSF0000800113,pre-k capacity projects,1139 CONEY ISLAND AVENUE,40.630101,-73.966207,15-Jul,2016,14-Jun,14-Dec,13.05,0,13.05,0,sca_cp_prek_schools_prev,314,Brooklyn,22,0101000020E6100000A48AE255D67D52C0A5164A26A7504440
+Yes,Yes,108,21,PRE-K CENTER @ 1215 AVENUE X,DSF0000800303,pre-k capacity projects,1215 AVENUE X,40.591856,-73.95842,15-Aug,2016,14-Jul,14-Dec,5.4,0,5.4,0,sca_cp_prek_schools_prev,315,Brooklyn,21,0101000020E610000045F5D6C0567D52C07FF8F9EFC14B4440
+Yes,Yes,72,21,PRE-K CENTER @ 1223 CONEY ISLAND AVENUE,DSF0000821960,pre-k capacity projects,1223 CONEY ISLAND AVENUE,40.62782,-73.96574,17-Jul,2018,15-Apr,16-Jan,10.91,0,10.91,0,sca_cp_prek_schools_prev,314,Brooklyn,21,0101000020E6100000191C25AFCE7D52C02AE3DF675C504440
+Yes,Yes,144,25,PRE-K CENTER @ 123-07 22ND AVENUE,DSF0000821868,pre-k capacity projects,123-07 22ND AVENUE,40.78016,-73.844931,17-Sep,2018,15-Feb,15-Dec,6.68,0,6.68,0,sca_cp_prek_schools_prev,407,Queens,25,0101000020E61000001A187959137652C0DDD26A48DC634440
+Yes,Yes,36,15,PRE-K CENTER @ 131 UNION STREET,DSF0000822084,pre-k capacity projects,131 UNION STREET,40.68428,-74.002592,16-Sep,2017,15-Jun,16-Feb,7.33,0,7.33,0,sca_cp_prek_schools_prev,306,Brooklyn,15,0101000020E6100000CDCEA2772A8052C048A7AE7C96574440
+Yes,Yes,90,28,PRE-K CENTER @ 132-10 JAMAICA AVENUE,DSF0000800124,pre-k capacity projects,132-10 JAMAICA AVENUE,40.702156,-73.820209,15-Jun,2015,14-Jun,14-Dec,11.98,0,11.98,0,sca_cp_prek_schools_prev,409,Queens,28,0101000020E6100000A2B8E34D7E7452C05858703FE0594440
+Yes,Yes,252,22,PRE-K CENTER @ 1340 EAST 29TH STREET,DSF0000822027,pre-k capacity projects,1340 EAST 29TH STREET,40.61845,-73.94633,15-Sep,2016,15-Mar,15-May,15.65,0,15.65,0,sca_cp_prek_schools_prev,314,Brooklyn,22,0101000020E6100000514EB4AB907C52C0091B9E5E294F4440
+Yes,Yes,90,20,PRE-K CENTER @ 1355 84TH STREET,DSF0000800057,pre-k capacity projects,1355 84TH STREET,40.614466,-74.011425,15-Sep,2016,14-Jun,15-Jan,12.43,0,12.43,0,sca_cp_prek_schools_prev,310,Brooklyn,20,0101000020E6100000D656EC2FBB8052C0814067D2A64E4440
+Yes,Yes,72,20,PRE-K CENTER @ 1355 84TH STREET,DSF0000822162,pre-k capacity projects,1355 84TH STREET,40.614466,-74.011425,16-Sep,2017,15-May,15-Aug,0.4,0,0.4,0,sca_cp_prek_schools_prev,310,Brooklyn,20,0101000020E6100000D656EC2FBB8052C0814067D2A64E4440
+Yes,No,126,20,PRE-K CENTER @ 140A 58TH STREET,DSF0000821967,pre-k capacity projects,140A 58TH STREET,40.645338,-74.022864,15-Sep,2016,15-Apr,15-Jun,16.7,0,16.7,0,sca_cp_prek_schools_prev,307,Brooklyn,20,0101000020E61000005E10919A768152C0DB6E826F9A524440
+Yes,Yes,324,20,PRE-K CENTER @ 1423 62ND STREET,DSF0000821958,pre-k capacity projects,1423 62ND STREET,40.625899,-73.996729,17-Aug,2018,15-Apr,16-May,34.71,0,34.71,0,sca_cp_prek_schools_prev,311,Brooklyn,20,0101000020E6100000637E6E68CA7F52C0AFCC5B751D504440
+Yes,Yes,90,9,PRE-K CENTER @ 1434 OGDEN AVENUE,DSF0000801087,pre-k capacity projects,1434 OGDEN AVENUE,40.84337,-73.923736,15-Aug,2016,14-Oct,15-Mar,10.57,0,10.57,0,sca_cp_prek_schools_prev,204,Bronx,9,0101000020E6100000D388997D1E7B52C0B936548CF36B4440
+Yes,Yes,108,25,PRE-K CENTER @ 14-45 143RD STREET,DSF0000821980,pre-k capacity projects,14-45 143RD STREET,40.785787,-73.826154,16-Jul,2017,15-Apr,16-Jan,3.85,0,3.85,0,sca_cp_prek_schools_prev,407,Queens,25,0101000020E61000006ADD06B5DF7452C09C4F1DAB94644440
+Yes,Yes,180,20,PRE-K CENTER @ 1668 46TH STREET,DSF0000800047,pre-k capacity projects,1668 46TH STREET,40.631768,-73.98221,15-Jul,2016,14-Jun,14-Nov,7.13,0.02,7.11,0,sca_cp_prek_schools_prev,312,Brooklyn,20,0101000020E610000077F35487DC7E52C0655419C6DD504440
+Yes,Yes,126,29,PRE-K CENTER @ 168-42 JAMAICA AVENUE,DSF0000800116,pre-k capacity projects,168-42 JAMAICA AVENUE,40.706716,-73.791302,15-Jun,2015,14-Jun,14-Dec,18.22,0,18.22,0,sca_cp_prek_schools_prev,412,Queens,29,0101000020E61000009AD024B1A47252C0ACC77DAB755A4440
+Yes,No,180,15,PRE-K CENTER @ 168 8TH STREET,DSF0000821899,pre-k capacity projects,168 8TH STREET,40.671728,-73.989838,21-Aug,2022,17-Dec,19-Feb,23.03,0,20.95,2.08,sca_cp_prek_schools_prev,306,Brooklyn,15,0101000020E6100000A3957B81597F52C05CE7DF2EFB554440
+Yes,No,180,15,PRE-K CENTER @ 168 8TH STREET,DSF0000821899,pre-k capacity projects,168 8TH STREET,40.671728,-73.989838,22-Apr,2022,17-Dec,19-Jul,35.84,5,30.85,0,sca_cp_prek_schools_cur,306,Brooklyn,15,0101000020E6100000A3957B81597F52C05CE7DF2EFB554440
+Yes,Yes,108,15,PRE-K CENTER @ 173 25TH STREET,DSF0000821928,pre-k capacity projects,173 25TH STREET,40.661059,-73.998973,15-Aug,2016,15-Mar,15-May,8.78,0,8.78,0,sca_cp_prek_schools_prev,307,Brooklyn,15,0101000020E61000009225732CEF7F52C0FDDCD0949D544440
+Yes,Yes,144,31,PRE-K CENTER @ 1 TELEPORT DRIVE,DSF0000800328,pre-k capacity projects,1 TELEPORT DRIVE,40.604274,-74.178469,15-Sep,2016,14-Aug,14-Dec,15.45,0,15.45,0,sca_cp_prek_schools_prev,502,Staten Island,31,0101000020E610000064963D096C8B52C05BE9B5D9584D4440
+Yes,Yes,90,20,PRE-K CENTER @ 2165 71ST STREET,DSF0000821713,pre-k capacity projects,2165 71ST STREET,40.610983,-73.985835,16-Aug,2017,14-Dec,15-May,21.12,0,21.12,0,sca_cp_prek_schools_prev,311,Brooklyn,20,0101000020E61000002310AFEB177F52C0BBB4E1B0344E4440
+Yes,Yes,72,15,PRE-K CENTER @ 219 25TH STREET,DSF0000822214,pre-k capacity projects,219 25TH STREET,40.659882,-73.997016,17-Sep,2018,15-Jul,16-Apr,12.05,0,12.05,0,sca_cp_prek_schools_prev,307,Brooklyn,15,0101000020E6100000AE65321CCF7F52C00B9C6C0377544440
+Yes,Yes,234,20,PRE-K CENTER @ 21 BAY 11TH STREET,DSF0000822014,pre-k capacity projects,21 BAY 11TH STREET ,40.609976,-74.008608,15-Sep,2016,15-Jan,15-Aug,0.22,0,0.22,0,sca_cp_prek_schools_prev,311,Brooklyn,20,0101000020E6100000F99E91088D8052C026AC8DB1134E4440
+Yes,Yes,54,20,PRE-K CENTER @ 21 BAY 11TH STREET,DSF0000822082,pre-k capacity projects,21 BAY 11TH STREET ,40.609976,-74.008608,16-Sep,2017,15-Apr,16-Jan,11.78,0,11.78,0,sca_cp_prek_schools_prev,311,Brooklyn,20,0101000020E6100000F99E91088D8052C026AC8DB1134E4440
+Yes,Yes,108,21,PRE-K CENTER @ 2202 60TH STREET,DSF0000800230,pre-k capacity projects,2202 60TH STREET,40.616479,-73.978093,15-Jul,2016,14-Jun,15-Jan,5.3,0,5.3,0,sca_cp_prek_schools_prev,312,Brooklyn,21,0101000020E610000094DC6113997E52C0DCD5ABC8E84E4440
+Yes,Yes,198,10,PRE-K CENTER @ 2490-2500 WEBSTER AVENUE,DSF0000821875,pre-k capacity projects,2490-2500 WEBSTER AVENUE,40.860848,-73.892224,17-Sep,2018,15-Apr,16-Feb,16.29,0,16.29,0,sca_cp_prek_schools_prev,206,Bronx,10,0101000020E6100000342DB1321A7952C0DB696B44306E4440
+Yes,Yes,234,10,PRE-K CENTER @ 2510 MARION AVENUE,DSF0000822030,pre-k capacity projects,2510 MARION AVENUE,40.861286,-73.893258,15-Sep,2016,15-May,15-Jul,0.21,0,0.21,0,sca_cp_prek_schools_prev,205,Bronx,10,0101000020E6100000FC389A232B7952C05740A19E3E6E4440
+Yes,Yes,36,10,PRE-K CENTER @ 2510 MARION AVENUE,DSF0000822032,pre-k capacity projects,2510 MARION AVENUE,40.861286,-73.893258,16-Sep,2017,15-May,16-Mar,13.31,0,13.31,0,sca_cp_prek_schools_prev,205,Bronx,10,0101000020E6100000FC389A232B7952C05740A19E3E6E4440
+Yes,Yes,180,30,PRE-K CENTER @ 27-35 JACKSON AVENUE,DSF0000843935,pre-k capacity projects,27-35 JACKSON AVENUE,40.747962,-73.940046,17-Sep,2018,16-Jan,16-Dec,11.21,0,11.21,0,sca_cp_prek_schools_prev,402,Queens,30,0101000020E610000014AFB2B6297C52C04C530438BD5F4440
+Yes,No,36,2,PRE-K CENTER @ 2 LAFAYETTE STREET,DSF0000821653,pre-k capacity projects,2 LAFAYETTE STREET,40.713723,-74.003586,16-Aug,2017,14-Oct,15-Jul,8.76,0,8.76,0,sca_cp_prek_schools_prev,101,Manhattan,2,0101000020E61000004D2EC6C03A8052C096B377465B5B4440
+Yes,Yes,126,30,PRE-K CENTER @ 32-52 37TH STREET,DSF0000821858,pre-k capacity projects,32-52 37TH STREET,40.759308,-73.920948,17-Jul,2018,15-Apr,16-Jul,10.27,0,10.27,0,sca_cp_prek_schools_prev,401,Queens,30,0101000020E61000004354E1CFF07A52C0ABCB290131614440
+Yes,Yes,270,30,PRE-K CENTER @ 32-52 37TH STREET,DSF0000822015,pre-k capacity projects,32-52 37TH STREET,40.759308,-73.920948,15-Sep,2016,15-Apr,15-Aug,0.63,0,0.63,0,sca_cp_prek_schools_prev,401,Queens,30,0101000020E61000004354E1CFF07A52C0ABCB290131614440
+Yes,Yes,180,2,PRE-K CENTER @ 355 EAST 76 STREET,DSF0000866155,pre-k capacity projects,355 EAST 76 STREET,40.77086,-73.955204,19-Sep,2020,17-Apr,18-Mar,35.01,0,33.43,1.58,sca_cp_prek_schools_prev,108,Manhattan,2,0101000020E61000008940F50F227D52C0B4E55C8AAB624440
+Yes,Yes,90,10,PRE-K CENTER @ 3560 WEBSTER AVENUE,DSF0000821711,pre-k capacity projects,3560 WEBSTER AVENUE,40.88086,-73.870646,16-Sep,2017,14-Dec,15-Sep,8.04,0,8.04,0,sca_cp_prek_schools_prev,212,Bronx,10,0101000020E61000002A1900AAB87752C0622D3E05C0704440
+Yes,Yes,36,10,PRE-K CENTER @ 3605 SEDGWICK AVENUE,DSF0000821874,pre-k capacity projects,3605 SEDGWICK AVENUE,40.881542,-73.896483,16-Sep,2017,15-Apr,15-Dec,5.29,0,5.29,0,sca_cp_prek_schools_prev,208,Bronx,10,0101000020E6100000E19A3BFA5F7952C07506465ED6704440
+Yes,Yes,144,22,PRE-K CENTER @ 3610 GLENWOOD ROAD,DSF0000822024,pre-k capacity projects,3610 GLENWOOD ROAD,40.63436,-73.941795,15-Sep,2016,15-Mar,15-May,14.86,0,14.86,0,sca_cp_prek_schools_prev,317,Brooklyn,22,0101000020E61000005322895E467C52C0FEF15EB532514440
+Yes,No,252,20,PRE-K CENTER @ 369 93RD STREET,DSF0000821813,pre-k capacity projects,369 93RD STREET,40.618041,-74.031381,18-Sep,2019,15-Feb,16-Jun,43.52,0,43.52,0,sca_cp_prek_schools_prev,310,Brooklyn,20,0101000020E6100000CF2D7425028252C0274BADF71B4F4440
+Yes,Yes,126,21,PRE-K CENTER @ 385 AVENUE W,DSF0000822037,pre-k capacity projects,385 AVENUE W,40.592894,-73.968638,15-Sep,2016,15-Apr,15-May,3.96,0,3.96,0,sca_cp_prek_schools_prev,315,Brooklyn,21,0101000020E61000006CEA3C2AFE7D52C050FF59F3E34B4440
+Yes,Yes,144,24,PRE-K CENTER @ 44-15 JUDGE STREET,DSF0000800248,pre-k capacity projects,44-15 JUDGE STREET,40.742964,-73.877449,15-Jun,2015,14-Jun,14-Dec,6.05,0,6.05,0,sca_cp_prek_schools_prev,404,Queens,24,0101000020E61000001BBAD91F287852C07C0DC171195F4440
+Yes,Yes,108,24,PRE-K CENTER @ 46-16 76TH STREET,DSF0000800114,pre-k capacity projects,46-16 76TH STREET,40.740076,-73.888241,15-Aug,2016,14-Jun,14-Dec,15.86,0,15.86,0,sca_cp_prek_schools_prev,404,Queens,24,0101000020E6100000D87DC7F0D87852C0FA4674CFBA5E4440
+Yes,Yes,180,7,PRE-K CENTER @ 535 UNION AVENUE,DSF0000800055,pre-k capacity projects,535 UNION AVENUE,40.812067,-73.905569,15-Jul,2016,14-Jun,14-Dec,13.16,0,13.16,0,sca_cp_prek_schools_prev,201,Bronx,7,0101000020E61000005FD1ADD7F47952C09694BBCFF1674440
+Yes,Yes,54,10,PRE-K CENTER @ 5500 BROADWAY,DSF0000821828,pre-k capacity projects,5500 BROADWAY,40.877062,-73.906185,16-Sep,2017,15-Apr,16-Feb,5.87,0,5.87,0,sca_cp_prek_schools_prev,208,Bronx,10,0101000020E61000000CC85EEFFE7952C03D484F9143704440
+Yes,Yes,162,20,PRE-K CENTER @ 550 59TH STREET,DSF0000800304,pre-k capacity projects,550 59TH STREET,40.639386,-74.014449,16-Aug,2017,14-Jul,15-Dec,9.97,0,9.97,0,sca_cp_prek_schools_prev,307,Brooklyn,20,0101000020E61000006F9D7FBBEC8052C098C28366D7514440
+Yes,Yes,162,24,PRE-K CENTER @ 56-01 61ST STREET,DSF0000822111,pre-k capacity projects,56-01 61ST STREET,40.724967,-73.904289,15-Sep,2016,15-May,15-Jul,7.25,0,7.25,0,sca_cp_prek_schools_prev,405,Queens,24,0101000020E61000007C48F8DEDF7952C0F1D6F9B7CB5C4440
+Yes,Yes,36,24,PRE-K CENTER @ 57-06 99TH STREET,DSF0000844747,pre-k capacity projects,57-06 99TH STREET,40.738242,-73.860015,17-Sep,2018,16-Sep,17-Jun,6.44,0,6.44,0,sca_cp_prek_schools_prev,404,Queens,24,0101000020E610000072C45A7C0A7752C04E44BFB67E5E4440
+Yes,Yes,180,24,PRE-K CENTER @ 68-20 MYRTLE AVENUE,DSF0000800282,pre-k capacity projects,68-20 MYRTLE AVENUE,40.701684,-73.883891,15-Jul,2016,14-Jul,14-Dec,7.88,0,7.88,0,sca_cp_prek_schools_prev,405,Queens,24,0101000020E6100000A48E8EAB917852C0301004C8D0594440
+Yes,Yes,90,24,PRE-K CENTER @ 70-24 47TH AVENUE,DSF0000822186,pre-k capacity projects,70-24 47TH AVENUE,40.739014,-73.893771,17-Sep,2018,15-Jun,16-Apr,4.19,0,4.19,0,sca_cp_prek_schools_prev,402,Queens,24,0101000020E61000003FC7478B337952C0A0A4C002985E4440
+Yes,Yes,270,20,PRE-K CENTER @ 7401 FORT HAMILTON PARKWAY,DSF0000822086,pre-k capacity projects,7401 FORT HAMILTON PARKWAY,40.62621,-74.015818,15-Sep,2016,15-May,15-Jul,14.78,0,14.78,0,sca_cp_prek_schools_prev,310,Brooklyn,20,0101000020E61000000A2C8029038152C0CE3637A627504440
+Yes,No,18,20,PRE-K CENTER @ 8501 5TH AVENUE,DSF0000821654,pre-k capacity projects,8501 5TH AVENUE,40.622039,-74.025734,15-Sep,2016,14-Oct,15-Apr,6.14,0,6.14,0,sca_cp_prek_schools_prev,310,Brooklyn,20,0101000020E61000004C1938A0A58152C014EB54F99E4F4440
+Yes,Yes,72,28,PRE-K CENTER @ 89-14 PARSONS BOULEVARD,DSF0000800117,pre-k capacity projects,89-14 PARSONS BOULEVARD,40.705532,-73.801531,15-Jun,2015,14-Jun,14-Dec,7.43,0,7.43,0,sca_cp_prek_schools_prev,412,Queens,28,0101000020E6100000BBEEAD484C7352C0072461DF4E5A4440
+Yes,Yes,108,30,PRE-K CENTER @ 96-10 23RD AVENUE,DSF0000800058,pre-k capacity projects,96-10 23RD AVENUE,40.768352,-73.874092,15-Jun,2015,14-Jun,14-Dec,11.17,0.01,11.17,0,sca_cp_prek_schools_prev,403,Queens,30,0101000020E61000007F6C921FF17752C079E8BB5B59624440
+Yes,Yes,54,24,PRE-K CENTER @ 98-22 55 AVENUE,DSF0000865849,pre-k capacity projects,98-22 55 AVENUE,40.739192,-73.862261,17-Sep,2018,17-Jan,17-Apr,0.36,0,0.36,0,sca_cp_prek_schools_prev,404,Queens,24,0101000020E610000071E7C2482F7752C080BBECD79D5E4440
+*,,458,12,P.S. @ 1570 BOONE AVENUE,DSF0000798179,capacity projects,1570 BOONE AVENUE,40.833224,-73.88497,Sep-22,2023,Dec-17,Jan-20,79.23,6.44,72.79,0,sca_cp_cap_schools_cur,203,Bronx,12,0101000020E61000003BFC3559A37852C0041F8315A76A4440
+*,,410,25,P.S. 169 ADDITION,DSF0000798201,capacity projects,18-25 212 STREET,40.782298,-73.779099,Sep-22,2023,Sep-18,Dec-19,56.25,4.53,51.72,0,sca_cp_cap_schools_cur,407,Queens,25,0101000020E61000002A560DC2DC7152C0F4DC425722644440
+*,,476,10,P.S. @ 2355 MORRIS AVENUE,DSF0000889039,capacity projects,2355 MORRIS AVENUE,40.859668,-73.900982,Mar-23,2023,Mar-19,Jun-20,64.28,5.08,59.19,0,sca_cp_cap_schools_cur,205,Bronx,10,0101000020E6100000381268B0A97952C078B5DC99096E4440
+Yes,No,468,26,P.S. 332,DSF0000798205,capacity projects,210-07 48TH AVENUE,40.754954,-73.770314,Sep-17,2018,Feb-14,Aug-15,100.44,6.85,93.59,,sca_cp_cap_schools_prev,411,Queens,26,0101000020E6100000A96917D34C7152C000FE2955A2604440
+Yes,No,516,27,P.S. 335,DSF0000417420,capacity projects,150-15 RALEIGH STREET,40.668127,-73.837189,Sep-17,2018,Sep-13,Jul-15,108.73,6.25,102.48,,sca_cp_cap_schools_prev,410,Queens,27,0101000020E61000008AE42B81947552C08C497F2F85554440
+Yes,No,388,10,P.S. 33 ANNEX,DSF0000798177,capacity projects,2424 JEROME AVENUE,40.86185,-73.90176,Sep-21,2022,Aug-17,Oct-18,72.79,0.02,65.12,,sca_cp_cap_schools_prev,205,Bronx,10,0101000020E6100000D235936FB67952C05F07CE19516E4440
+Yes,No,748,31,P.S. @ 357 TARGEE STREET,DSF0000843832,capacity projects,357 TARGEE STREET,40.618679,-74.084846,Jun-22,2022,May-17,Dec-18,113.43,0,102.04,,sca_cp_cap_schools_prev,501,Staten Island,31,0101000020E610000092CCEA1D6E8552C06ADC9BDF304F4440
+Yes,No,476,30,P.S. 398,DSF0000798210,capacity projects,69-01 34TH AVENUE,40.752493,-73.896922,Jun-19,2019,Jun-15,Mar-17,94.31,0,94.31,,sca_cp_cap_schools_prev,403,Queens,30,0101000020E61000000744882B677952C006BCCCB051604440
+Yes,No,332,15,P.S. @ 4302 4TH AVENUE,DSF0000798182,capacity projects,4302 4TH AVENUE,40.650305,-74.008602,Jun-22,2022,Aug-16,Dec-18,92.92,0,85.15,,sca_cp_cap_schools_prev,307,Brooklyn,15,0101000020E6100000882B67EF8C8052C070B6B9313D534440
+Yes,No,328,15,P.S. @ 4525 8TH AVENUE,DSF0000798183,capacity projects,4525 8TH AVENUE,40.643734,-74.000977,Sep-21,2022,Mar-17,Nov-18,83.74,0.05,76.34,,sca_cp_cap_schools_prev,312,Brooklyn,15,0101000020E610000016C3D501108052C061A92EE065524440
+*,,440,26,P.S. 46 ADDITION,DSF0000798204,capacity projects,64-45 218 STREET,40.746202,-73.758752,Sep-22,2023,Sep-18,Dec-19,56.25,4.52,51.73,0,sca_cp_cap_schools_cur,411,Queens,26,0101000020E610000093718C648F7052C0DA1A118C835F4440
+Yes,Yes,113,15,P.S. 516 SUNSET PARK AVENUES ELEMENTARY SCHOOL,DSF0000799396,capacity projects,4222 4TH AVENUE,40.650785,-74.008105,Jul-16,2017,Jan-14,Jul-14,11.6,0.12,11.49,,sca_cp_cap_schools_prev,307,Brooklyn,15,0101000020E6100000C87BD5CA848052C01ADD41EC4C534440
+Yes,Yes,224,15,P.S. @ 736 48TH STREET,DSF0000866093,capacity projects,736 48TH STREET,40.643018,-74.003856,Sep-18,2019,May-17,Jun-18,16.49,0,16.49,,sca_cp_cap_schools_prev,307,Brooklyn,15,0101000020E61000002D793C2D3F8052C0A25EF0694E524440
+Yes,No,976,20,P.S. 746,DSF0000798186,capacity projects,256 59TH STREET,40.643337,-74.021011,Mar-20,2020,Apr-15,Jun-17,128.94,0.1,118.17,,sca_cp_cap_schools_prev,307,Brooklyn,20,0101000020E6100000CD76853E588152C044A7E7DD58524440
+Yes,No,404,15,P.S. @ 836-841 5TH AVENUE,DSF0000843828,capacity projects,836-841 5TH AVENUE,40.653319,-74.001791,Apr-21,2021,Aug-17,Nov-18,89.85,0,81.89,,sca_cp_cap_schools_prev,307,Brooklyn,15,0101000020E6100000569BFF571D8052C07F6DFDF49F534440
+*,L,332,13,P.S. @ ALBEE SQUARE WEST,DSF0000843660,capacity projects,420 ALBEE SQUARE WEST,40.691157,-73.983459,Jun-23,2023,Jul-17,Sep-21,29.86,2.35,27.51,0,sca_cp_cap_schools_cur,302,Brooklyn,13,0101000020E61000003D7D04FEF07E52C063B323D577584440
+*,,382,15,P.S./H.S. @ SCHERMERHORN STREET,DSF0000888773,capacity projects,362 SCHERMERHORN STREET,40.686499,-73.979649,Jun-23,2023,Mar-18,May-20,2.05,2.05,0,0,sca_cp_cap_schools_cur,302,Brooklyn,15,0101000020E6100000C823B891B27E52C04CDE0033DF574440
+Yes,No,"1,000",19,P.S./I.S. @ 3269 ATLANTIC AVENUE,DSF0000822081,capacity projects,3269 ATLANTIC AVENUE,40.680655,-73.875152,Sep-20,2021,Jul-16,Dec-17,127.56,0,116.52,,sca_cp_cap_schools_prev,305,Brooklyn,19,0101000020E6100000DBC1887D027852C0F06DFAB31F574440
+Yes,No,572,30,P.S. @ PARCEL C,DSF0000843659,capacity projects,1-50 54TH AVENUE,40.740933,-73.960045,Jun-21,2021,Dec-16,Apr-18,102.06,0,93.09,,sca_cp_cap_schools_prev,402,Queens,30,0101000020E61000000D6C9560717D52C07AC37DE4D65E4440
+Yes,Yes,245,5,TEACHER'S COLLEGE COMMUNITY SCHOOL ANNEX,DSF0000866751,capacity projects,223-233 WEST 132 STREET,40.813781,-73.946024,Sep-18,2019,Aug-17,May-18,20,0,20,,sca_cp_cap_schools_prev,110,Manhattan,5,0101000020E6100000CA4E3FA88B7C52C0978DCEF929684440
+Yes,No,333,13,THE DOCK STREET EDUCATIONAL COMPLEX,DSF0000687093,capacity projects,19 DOCK STREET,40.703106,-73.992549,Jul-16,2017,May-12,May-15,41.47,3.57,37.9,,sca_cp_cap_schools_prev,302,Brooklyn,13,0101000020E61000005CAB3DEC857F52C089CF9D60FF594440
+Yes,No,692,3,THE RIVERSIDE SCHOOL,DSF0000730952,capacity projects,21 WEST END AVENUE,40.772463,-73.989844,Sep-17,2018,Apr-11,Jun-16,110.39,3.61,106.78,,sca_cp_cap_schools_prev,107,Manhattan,3,0101000020E61000001409A69A597F52C05E2F4D11E0624440
+Yes,,400,11,P.S. 19 ADDITION,DSF0000821591,class size reduction projects,,,,Jul-20,2021,May-16,Jun-17,70.61,0.00,64.76,5.86,sca_cp_class_size_reduction,212,Bronx,11,0101000020E6100000EC51B81E857752C0693A3B191C734440
+Yes,,Replacement,75Q,P.S. 256 ANNEX,DSF0000843866,replacement projects,,,,Sep-20,2021,Apr-16,Jan-18,23.06,0.00,21.44,1.61,sca_cp_rep_schools,414,Queens,27,0101000020E6100000058A58C4B07652C08978EBFCDB494440
+Yes,,Replacement,75R,D75 REPLACEMENT @ 15 FAIRFIELD STREET,DSF0000821871,replacement projects,,,,Sep-20,2021,Sep-16,Feb-18,58.15,0.00,53.78,4.38,sca_cp_rep_schools,503,Staten Island,31,0101000020E61000003F1D8F19A88952C06AF6402B30484440
+Yes,,384,29,P.S. 131 ADDITION,DSF0000843904,class size reduction projects,,,,Jul-21,2022,Mar-17,Jun-18,75.84,0.00,69.23,6.61,sca_cp_class_size_reduction,408,Queens,29,0101000020E610000042CC2555DB7252C0FA60191BBA5B4440
+Yes,,Replacement,75R,I.S./H.S. @ 715 OCEAN TERRACE,DSF0000844161,replacement projects,,,,Sep-21,2022,Nov-17,Dec-18,100.00,0.00,89.51,10.49,sca_cp_rep_schools,502,Staten Island,31,0101000020E610000008E92972888652C0AF0793E2E34D4440
