@@ -22,7 +22,7 @@ CREATE TABLE sca_cp_prek_joined_cur AS (
 		a.previousappropriations, 
 		a.fundingreqdfy1519, 
 		a.neededtocomplete,
-		'sca_cp_prek_schools_cur'::text AS source
+		'sca_cp_prek_schools_FY2020-24'::text AS source
 	FROM sca_cp_prek_schools a
 	LEFT JOIN sca_cp_prek_location b
 	ON a.school = b.school);
@@ -50,7 +50,7 @@ CREATE TABLE sca_cp_prek_joined_prev AS (
 		a.previousappropriations, 
 		a.fundingreqdfy1519, 
 		a.neededtocomplete,
-		'sca_cp_prek_schools_prev'::text AS source
+		'sca_cp_prek_schools_FY2015-19'::text AS source
 	FROM sca_cp_prek_schools_prev a
 	LEFT JOIN sca_cp_prek_location_prev b
 	ON a.school = b.school);
@@ -60,7 +60,7 @@ CREATE TABLE sca_cp_prek_joined AS (
 SELECT a.* FROM sca_cp_prek_joined_cur a
 UNION 
 SELECT b.* FROM sca_cp_prek_joined_prev b
-WHERE b.projectnum NOT IN (SELECT a.projectnum FROM sca_cp_cap_schools a));
+WHERE b.projectnum NOT IN (SELECT a.projectnum FROM sca_cp_prek_joined_cur a));
 
 DROP TABLE IF EXISTS sca_cp_prek_joined_cur;
 DROP TABLE IF EXISTS sca_cp_prek_joined_prev;

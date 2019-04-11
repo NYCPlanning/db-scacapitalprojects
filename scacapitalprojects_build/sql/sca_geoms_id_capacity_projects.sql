@@ -32,6 +32,6 @@ WHERE ST_Within(a.geom, b.geom)
 AND a.geom IS NOT NULL;
 -- school districts
 UPDATE sca_cp_capacity_projects a
-	SET csd = b.school_dist::text	
+	SET csd = b.schooldist::text	
 	FROM dcp_school_districts as b
-	WHERE ST_Intersects(a.geom,b.wkb_geometry);
+	WHERE ST_Intersects(a.geom,b.geom);

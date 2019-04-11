@@ -21,10 +21,11 @@
 DROP TABLE IF EXISTS qa_summary_stats;
 CREATE TABLE qa_summary_stats AS 
 (
-SELECT 'Non-capacity Projects' AS Group, COUNT(*), (COUNT(geom)*100.00) :: NUMERIC /COUNT(*) AS Percentage_mapped, 'sca_cp_school_programs' AS Table, 'sca_cp_programs' AS OPenSource_Table
+SELECT 'Non-capacity Projects' AS Group, COUNT(*), (COUNT(geom)*100.00) :: NUMERIC /COUNT(*) AS Percentage_mapped, 'sca_cp_school_programs' AS Table, 'sca_cp_programs' AS OPenSource_Table, '' as description
 FROM sca_cp_school_programs
 UNION ALL
-SELECT 'Capacity Projects' AS group, COUNT(*), (COUNT(geom)*100.00) :: NUMERIC /COUNT(*) AS Percentage_mapped, 'sca_cp_capacity_projects' AS Table, CASE 
+SELECT 'Capacity Projects' AS group, COUNT(*), (COUNT(geom)*100.00) :: NUMERIC /COUNT(*) AS Percentage_mapped, 'sca_cp_capacity_projects' AS Table, description,
+CASE 
 WHEN lower(description) = 'capacity projects' THEN 'Join of sca_cp_cap_location and sca_cp_cap_schools' 
 WHEN lower(description) = 'pre-k capacity projects' THEN 'Join of sca_cp_prek_location and sca_cp_prek_schools' 
 WHEN lower(description) = '3k capacity projects' THEN 'Join of sca_cp_3k_location and sca_cp_3k_schools' 

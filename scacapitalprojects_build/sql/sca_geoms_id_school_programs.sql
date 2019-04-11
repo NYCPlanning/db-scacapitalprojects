@@ -1,11 +1,11 @@
 -- get geometries got school programs
 DROP TABLE IF EXISTS sca_cp_school_programs;
 CREATE TABLE sca_cp_school_programs AS (
-SELECT a.*, 'sca_cp_programs_cur'::text AS source
+SELECT a.*, 'sca_cp_programs_FY2020-24'::text AS source
 FROM sca_cp_programs a
 UNION 
-SELECT b.*, 'sca_cp_programs_prev'::text AS source FROM sca_cp_programs_prev b
-WHERE b.projectnum NOT IN (SELECT a.projectnum FROM sca_cp_cap_schools a));
+SELECT b.*, 'sca_cp_programs_FY2015-19'::text AS source FROM sca_cp_programs_prev b
+WHERE b.projectnum NOT IN (SELECT a.projectnum FROM sca_cp_programs a));
 
 ALTER TABLE sca_cp_school_programs
 ADD COLUMN cd text,
@@ -36,6 +36,6 @@ AND a.geom IS NOT NULL;
 
 -- school districts
 UPDATE sca_cp_school_programs a
-	SET csd = b.school_dist::text	
+	SET csd = b.schooldist::text	
 	FROM dcp_school_districts as b
-	WHERE ST_Intersects(a.geom,b.wkb_geometry);
+	WHERE ST_Intersects(a.geom,b.geom);
