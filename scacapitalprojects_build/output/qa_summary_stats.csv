@@ -1,7 +1,7 @@
 group,count,percentage_mapped,table,opensource_table,description
-Non-capacity Projects,5014,98.2648583964898285,sca_cp_school_programs,sca_cp_programs,""
-Capacity Projects,3,66.6666666666666667,sca_cp_capacity_projects,class size reduction projects,
-Capacity Projects,74,81.0810810810810811,sca_cp_capacity_projects,pre-k capacity projects,Join of sca_cp_prek_location and sca_cp_prek_schools
-Capacity Projects,9,11.1111111111111111,sca_cp_capacity_projects,3k capacity projects,Join of sca_cp_3k_location and sca_cp_3k_schools
-Capacity Projects,141,23.4042553191489362,sca_cp_capacity_projects,capacity projects,Join of sca_cp_cap_location and sca_cp_cap_schools
-Capacity Projects,9,33.3333333333333333,sca_cp_capacity_projects,replacement projects,
+Non-capacity Projects,5005,99.9200799200799201,sca_cp_school_programs,sca_cp_programs,""
+Capacity Projects,3,100.0000000000000000,sca_cp_capacity_projects,class size reduction projects,
+Capacity Projects,72,100.0000000000000000,sca_cp_capacity_projects,pre-k capacity projects,Join of sca_cp_prek_location and sca_cp_prek_schools
+Capacity Projects,9,33.3333333333333333,sca_cp_capacity_projects,3k capacity projects,Join of sca_cp_3k_location and sca_cp_3k_schools
+Capacity Projects,141,46.8085106382978723,sca_cp_capacity_projects,capacity projects,Join of sca_cp_cap_location and sca_cp_cap_schools
+Capacity Projects,9,100.0000000000000000,sca_cp_capacity_projects,replacement projects,
