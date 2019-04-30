@@ -1,5 +1,5 @@
-district,borough,buildingid,school,projectnum,description,fy,total,source,cd,csd,geom,inprev
-1,Manhattan,MGYM,STANDALONE GYM ANNEX,DSF0000866746,System Expansion - New Construction-Common-Facilities-Additions - Gymnasiums,2019,"6,232,500",sca_cp_programs_FY2015-19,,,,Y
-31,Staten Island,RGYM,STANDALONE GYM ANNEX,DSF0000866750,System Expansion - New Construction-Common-Facilities-Additions - Gymnasiums,2019,"6,232,500",sca_cp_programs_FY2015-19,,,,Y
-7,Bronx,XGYM,STANDALONE GYM ANNEX,DSF0000866747,System Expansion - New Construction-Common-Facilities-Additions - Gymnasiums,2019,"6,232,500",sca_cp_programs_FY2015-19,,,,Y
-33K,Brooklyn,K905,DISTRICT 22 ECOLOGY CENTER,DSF0000822093,State of Good Repair - System Replacements - Windows,2015,"203,663",sca_cp_programs_FY2015-19,,,,Y
+district,borough,buildingid,school,projectnum,description,fy,total,source,inprev,cd,csd,geom_source,geom
+1,Manhattan,MGYM,STANDALONE GYM ANNEX,DSF0000866746,System Expansion - New Construction-Common-Facilities-Additions - Gymnasiums,2019,"6,232,500",sca_cp_programs_FY2015-19,Y,,,,
+31,Staten Island,RGYM,STANDALONE GYM ANNEX,DSF0000866750,System Expansion - New Construction-Common-Facilities-Additions - Gymnasiums,2019,"6,232,500",sca_cp_programs_FY2015-19,Y,,,,
+7,Bronx,XGYM,STANDALONE GYM ANNEX,DSF0000866747,System Expansion - New Construction-Common-Facilities-Additions - Gymnasiums,2019,"6,232,500",sca_cp_programs_FY2015-19,Y,,,,
+33K,Brooklyn,K905,DISTRICT 22 ECOLOGY CENTER,DSF0000822093,State of Good Repair - System Replacements - Windows,2015,"203,663",sca_cp_programs_FY2015-19,Y,,,,
