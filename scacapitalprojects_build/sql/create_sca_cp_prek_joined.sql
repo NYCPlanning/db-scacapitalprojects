@@ -62,5 +62,11 @@ UNION
 SELECT b.* FROM sca_cp_prek_joined_prev b
 WHERE b.projectnum NOT IN (SELECT a.projectnum FROM sca_cp_prek_joined_cur a));
 
+ALTER TABLE sca_cp_prek_joined
+ADD COLUMN inprev text;
+UPDATE sca_cp_prek_joined
+SET inprev = 'Y'
+WHERE projectnum IN (SELECT a.projectnum FROM sca_cp_prek_joined_prev a);
+
 DROP TABLE IF EXISTS sca_cp_prek_joined_cur;
 DROP TABLE IF EXISTS sca_cp_prek_joined_prev;

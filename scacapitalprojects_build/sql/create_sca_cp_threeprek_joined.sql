@@ -26,3 +26,6 @@ CREATE TABLE sca_cp_threeprek_joined AS (
 	FROM sca_cp_threeprek_schools a
 	LEFT JOIN sca_cp_threeprek_location b
 	ON a.school = b.school);
+
+ALTER TABLE sca_cp_threeprek_joined
+ADD COLUMN inprev text;

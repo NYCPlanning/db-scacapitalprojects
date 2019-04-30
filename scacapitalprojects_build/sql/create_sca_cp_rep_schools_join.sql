@@ -30,3 +30,6 @@ UPDATE sca_cp_rep_schools_join
 	SET location = NULL,
 		latitude = NULL,
 		longitude= NULL;
+		
+ALTER TABLE sca_cp_rep_schools_join
+ADD COLUMN inprev text;

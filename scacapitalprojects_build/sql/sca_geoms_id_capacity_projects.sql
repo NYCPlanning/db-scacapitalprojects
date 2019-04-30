@@ -3,18 +3,30 @@ ALTER TABLE sca_cp_capacity_projects
 	ADD cd text,
 	ADD borough text,
 	ADD csd text,
+	ADD geom_source text,
 	ADD geom geometry;
 
 UPDATE sca_cp_capacity_projects a
-SET geom=ST_SetSRID(ST_MakePoint(a.longitude::numeric, a.latitude::numeric),4326)
+SET geom=ST_SetSRID(ST_MakePoint(a.longitude::numeric, a.latitude::numeric),4326),
+	geom_source = 'SCA'
 WHERE a.geom is NULL
 AND a.longitude IS NOT NULL;
 
 UPDATE sca_cp_capacity_projects a
-SET geom=ST_SetSRID(ST_MakePoint(b.longitude::numeric, b.latitude::numeric),4326)
+SET geom=ST_SetSRID(ST_MakePoint(b.longitude::numeric, b.latitude::numeric),4326),
+	geom_source = 'SCA'
 FROM sca_cp_cap_location_process b
 WHERE a.geom is NULL
 AND b.school = a.school
+AND b.longitude IS NOT NULL;
+
+UPDATE sca_cp_capacity_projects a
+SET geom=ST_SetSRID(ST_MakePoint(b.longitude::numeric, b.latitude::numeric),4326),
+	geom_source = 'DCP',
+	location = b.streetaddress
+FROM sca_GeomsSchoolCapacity b
+WHERE a.geom is NULL
+AND b.projectnum = a.projectnum
 AND b.longitude IS NOT NULL;
 
 -- community districts

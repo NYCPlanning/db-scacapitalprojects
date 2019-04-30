@@ -31,3 +31,6 @@ UPDATE sca_cp_class_size_reduction_join
 		location = NULL,
 		latitude = NULL,
 		longitude= NULL;
+
+ALTER TABLE sca_cp_class_size_reduction_join
+ADD COLUMN inprev text;
