@@ -72,8 +72,8 @@ SELECT
 		WHEN description = 'capacity projects' THEN 'Capacity Projects' 
 		WHEN description = 'pre-k capacity projects' THEN 'PreK Capacity Projects' 
 		WHEN description = '3k capacity projects' THEN '3K Capacity Projects'
-		WHEN description = 'Class Size Reduction Capacity Projects' THEN 'Class Size Reduction Projects'
-		WHEN description = '' THEN 'Replacement Projects' 
+		WHEN description = 'class size reduction projects' THEN 'Class Size Reduction Projects'
+		WHEN description = 'replacement project' THEN 'Replacement Projects' 
 	ELSE NULL
 	END) AS type,
 	source,
